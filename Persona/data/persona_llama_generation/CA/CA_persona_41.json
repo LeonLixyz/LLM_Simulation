@@ -1,19 +1,3 @@
 {
-  "Age": "25 to 34 years",
-  "Sex": "Male",
-  "Race": "Hispanic",
-  "Ethnicity": "Mexican",
-  "HOUSEHOLD_RELATIONSHIP": "Other Relative of Householder",
-  "HOUSEHOLD_TYPE": "Multi-generational household",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "High school graduate",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Different state",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 29-year-old Mexican man, married and living with your spouse and extended family in a lively multi-generational household in California. You are a high school graduate, born in a different state but now call California home, and you're proud of your heritage while being fluent in English. In your free time, you enjoy exploring the outdoors, trying new foods, and learning about different cultures, and you work as a skilled laborer in the construction industry to provide for your loved ones."
+  "PERSONA": "This individual is a 25- to 34-year-old Hispanic male of Mexican ethnicity living in California. He is married but resides with relatives other than his spouse, possibly indicating a multi-generational or extended family household. With a high school diploma, his educational background may influence his job prospects and income level. As a non-veteran, he does not have military experience.\n\nGiven his demographic characteristics, potential economic concerns or priorities might include:\n\n1. Job opportunities and career advancement: As a high school graduate, he might face challenges in securing well-paying jobs or advancing in his career, especially in a competitive state like California.\n2. Housing and affordability: Living with relatives could be a result of high housing costs in California, which might be a significant concern for this individual, especially if he is planning to start a family or move into his own home.\n3. Healthcare and benefits: As a married individual, he might be concerned about accessing affordable healthcare and benefits for himself and his spouse, which could impact his views on healthcare policies.\n4. Education and skills development: With a high school diploma, he might recognize the importance of further education or skills training to improve his economic prospects, which could influence his views on education policies and workforce development programs.\n\nPossible viewpoints or concerns within this demographic group might vary, but some common themes could include:\n\n* Support for policies that address income inequality, affordable housing, and access to education and job training programs.\n* Concerns about the impact of immigration policies on family members or community, given his Mexican ethnicity.\n* Interest in policies that promote economic growth and job creation, particularly in industries that do not require a college degree.\n* Views on healthcare policies that balance affordability with access to quality care for himself and his spouse.\n\nThis persona represents a diverse range of experiences within the demographic group, acknowledging the complexities of individual circumstances and the potential for varying viewpoints."
 }

@@ -1,8 +1,8 @@
 {
-  "Age": "85 years and over",
-  "Sex": "Female",
-  "Race": "White",
-  "Ethnicity": null,
+  "AGE": "60 to 64 years",
+  "SEX": "Male",
+  "RACE": "White",
+  "ETHNICITY": "Not Applicable",
   "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
   "HOUSEHOLD_TYPE": "Married-couple With kids",
   "MARITAL_STATUS": "Now married, except separated",
@@ -12,7 +12,12 @@
   "EDUCATION": "Bachelor's degree",
   "BIRTH_PLACE": "US Born",
   "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Different state",
+  "BIRTH_DETAIL": "State of residence",
+  "LABOR FORCE STATUS": "Not in Labor Force",
+  "EMPLOYMENT STATUS": "Not Applicable",
+  "CAREER": "Not Applicable",
+  "INSURANCE_COVERAGE": "Public coverage",
+  "INCOME_RANGE": "$15,000 to $24,999",
   "STATE_NAME": "Arkansas",
   "STATE_ABBR": "AR"
 }

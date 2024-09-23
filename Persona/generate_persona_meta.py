@@ -10,14 +10,23 @@ from get_dist.get_veteran_dist import sample_veteran_status
 from get_dist.get_language_dist import sample_languages
 from get_dist.get_edu_dist import sample_education_level
 from get_dist.get_birth_dist import sample_birth_and_citizenship_multiple
+from get_dist.get_employment_dist import sample_labor_force_and_employment
+from get_dist.get_career_dist import generate_career
+from get_dist.get_income_insurance_dist import sample_insurance_and_income
 
 def generate_personas_for_state(state):
     # Load data
     dp05 = f"/user/al4263/Simulate/Persona/data/DP05/structured_data/{state.abbr.lower()}_structured_data.json"
     dp02 = f"/user/al4263/Simulate/Persona/data/DP02/structured_data/{state.abbr.lower()}_dp02_structured.json"
+    dp03 = f"/user/al4263/Simulate/Persona/data/DP03/structured_data/{state.abbr.lower()}_dp03_structured.json"
+    s2301 = f"/user/al4263/Simulate/Persona/data/s2301/structured_data/{state.abbr.lower()}_s2301_structured.json"
+    s2401 = f"/user/al4263/Simulate/Persona/data/s2401/structured_data/{state.abbr.lower()}_s2401_structured.json"
 
     dp05_data = load_structured_data(dp05)
     dp02_data = load_structured_data(dp02)
+    dp03_data = load_structured_data(dp03)
+    s2301_data = load_structured_data(s2301)
+    s2401_data = load_structured_data(s2401)
 
     # Get distributions
     age_distributions = get_age_dist(dp05_data)
@@ -49,9 +58,21 @@ def generate_personas_for_state(state):
     df['EDUCATION'] = df.apply(lambda row: sample_education_level(dp02_data), axis=1)
     df['BIRTH_PLACE'], df['CITIZENSHIP'], df['BIRTH_DETAIL'] = zip(*df.apply(lambda row: sample_birth_and_citizenship_multiple(dp02_data), axis=1))
 
+    # Sample employment status
+    df['Labor Force Status'], df['Employment Status'] = zip(*df['Age'].apply(lambda x: sample_labor_force_and_employment(x, s2301_data)))
+    df.columns = df.columns.str.upper()
+    df['CAREER'] = df.apply(lambda row: generate_career(row, s2401_data), axis=1)
+    df[['INSURANCE_COVERAGE', 'INCOME_RANGE']] = df.apply(lambda row: sample_insurance_and_income(row, dp03_data), axis=1, result_type='expand')
+
     # Add state information
     df['STATE_NAME'] = state.name
     df['STATE_ABBR'] = state.abbr
+
+    # upper case all the column names
+    df.columns = df.columns.str.upper()
+
+    # replace all null with "NOT APPLICABLE"
+    df.fillna("Not Applicable", inplace=True)
 
     # Save personas
     base_dir = f"/user/al4263/Simulate/Persona/data/persona_meta/{state.abbr}"

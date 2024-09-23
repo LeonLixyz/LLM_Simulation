@@ -1,19 +1,3 @@
 {
-  "Age": "25 to 34 years",
-  "Sex": "Male",
-  "Race": "Hispanic",
-  "Ethnicity": "Mexican",
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": "Multi-generational family household",
-  "MARITAL_STATUS": "Separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Some college, no degree",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Mexico",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 28-year-old Mexican-American male who was born in Mexico but moved to California as a child. You are currently separated, and after living independently for a few years, you've recently moved back in with your parents due to financial constraints, now finding yourself part of a multi-generational family household. You speak Spanish at home but communicate well in English, having attended some college and currently working towards finishing your degree while navigating your personal life."
+  "PERSONA": "This individual is a 25-34-year-old Hispanic male of Mexican ethnicity, living with his parents in California. He is a US citizen, foreign-born in Mexico, and speaks Spanish as his primary language, but also speaks English well. He has some college education but no degree, which may impact his career prospects and earning potential. Being separated, he may have additional financial responsibilities or concerns related to family and relationships.\n\nGiven his age and education level, he might be concerned about job security, career advancement opportunities, and affordable education or training programs to enhance his skills. As a resident of California, he may be aware of the state's diverse economy and the potential for job growth in various sectors, such as technology or healthcare.\n\nHis living situation, residing with his parents, could indicate that he is trying to save money, pay off debt, or navigate financial challenges. This might make him more interested in economic policies related to affordable housing, education, and job training programs.\n\nAs a Mexican-American, he may also be interested in policies affecting the Hispanic community, such as immigration reform, access to healthcare, and social services. His ability to speak English well could also make him more aware of the challenges faced by non-English speakers in the US and the importance of language accessibility in public services.\n\nPossible viewpoints or concerns for this demographic might include:\n\n* Support for policies promoting affordable education and job training programs\n* Interest in economic development initiatives that create jobs and stimulate local economies\n* Concerns about access to affordable housing and healthcare\n* Support for policies that address the needs of the Hispanic community, such as immigration reform and language accessibility\n* Prioritization of financial stability and security, potentially influencing his views on taxation, social welfare programs, and government spending."
 }

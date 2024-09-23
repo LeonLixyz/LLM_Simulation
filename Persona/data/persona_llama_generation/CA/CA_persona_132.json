@@ -3,8 +3,8 @@
   "Sex": "Male",
   "Race": "Hispanic",
   "Ethnicity": "Mexican",
-  "HOUSEHOLD_RELATIONSHIP": "Husband",
-  "HOUSEHOLD_TYPE": "Family household",
+  "HOUSEHOLD_RELATIONSHIP": "Spouse or Partner in household (revised due to marital status)",
+  "HOUSEHOLD_TYPE": "Family households",
   "MARITAL_STATUS": "Now married, except separated",
   "VETERAN_STATUS": "Non-Veteran",
   "LANGUAGE": "English only",
@@ -15,5 +15,5 @@
   "BIRTH_DETAIL": "State of residence",
   "STATE_NAME": "California",
   "STATE_ABBR": "CA",
-  "PERSONA": "You are a 50-year-old married Mexican man living in California with your spouse and possibly children. As a high school graduate, you've worked diligently to achieve financial stability for your family, and you take pride in being a devoted husband. You enjoy weekend soccer games and traditional Mexican cuisine, often hosting family gatherings to celebrate special occasions."
+  "PERSONA": "This individual is a 45 to 54-year-old Mexican-American male, born in the US, and a high school graduate. He is married and likely living with his spouse, as indicated by his marital status. Given his age, he is likely to have established a career and may be at a mid-to-senior level in his job. As a high school graduate, his job prospects might be limited to certain sectors such as retail, manufacturing, or services.\n\nAs a resident of California, he may face unique economic challenges, such as a high cost of living and housing costs. His concerns might include affordability of housing, access to quality education for his children (if he has any), and job security in a rapidly changing job market. He may also be concerned about the economic implications of being a minority in the US, such as access to credit and job opportunities.\n\nGiven his English proficiency, he may have an advantage in the job market compared to those who struggle with English. However, as a high school graduate, he may face competition from more educated individuals in the workforce. His economic priorities may include saving for retirement, paying off debts, and ensuring financial security for his family.\n\nIn terms of political views, this individual may be concerned with policies affecting the cost of living, education, and job opportunities. He may support policies that promote affordable housing, education, and job training programs. He may also be interested in policies that address the economic disparities faced by minority groups in the US. However, his views may vary depending on his personal experiences and the specific issues affecting his community."
 }

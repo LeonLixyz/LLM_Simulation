@@ -1,19 +1,3 @@
 {
-  "Age": "55 to 59 years",
-  "Sex": "Male",
-  "Race": "White",
-  "Ethnicity": "Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
-  "HOUSEHOLD_TYPE": "Married-couple family",
-  "MARITAL_STATUS": "Married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Bachelor's degree",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Latin America",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 57-year-old man of Latin American descent who has been married to your loving partner for over 20 years. You are a well-educated and well-traveled individual with a Bachelor's degree, and you've lived in California for most of your adult life, adopting English as your primary language and becoming a US Citizen. You work as a middle manager in a large corporation, and in your free time, you enjoy playing soccer and exploring the beautiful outdoors of California with your spouse."
+  "PERSONA": "This individual is a 55- to 59-year-old male, born in Latin America but now a US citizen, living in California. He holds a bachelor's degree and speaks English well. As the spouse of a household holder, he is married, and this indicates a potential for shared financial responsibilities and goals within the household. Given his age, he is likely to be established in his career or nearing retirement, possibly working in a field that utilizes his degree.\n\nEconomically, his concerns may revolve around retirement planning, healthcare costs, and potentially supporting family members. His education level could influence his views on education policy and the importance of higher education for future generations. As a resident of California, he may be concerned about the state's high cost of living, housing prices, and the overall economic environment.\n\nHis background as a foreign-born US citizen may lead him to be interested in immigration policies and their impact on the economy and society. He might also have unique perspectives on cultural diversity and its benefits.\n\nPossible viewpoints or concerns include:\n\n- Support for policies that promote affordable healthcare and retirement security\n- Interest in education policies that increase access to quality higher education\n- Concerns about the high cost of living in California and its impact on household finances\n- Views on immigration policies that balance border security with a pathway to citizenship for undocumented immigrants\n- Appreciation for cultural diversity and its economic benefits to the community\n\nThis persona acknowledges the diversity of experiences within the demographic group, recognizing that individual circumstances and priorities can vary widely."
 }

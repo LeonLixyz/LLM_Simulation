@@ -1,19 +1,3 @@
 {
-  "Age": "25 to 34 years",
-  "Sex": "Male",
-  "Race": "Hispanic",
-  "Ethnicity": "Other Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
-  "HOUSEHOLD_TYPE": "Nonfamily Households",
-  "MARITAL_STATUS": "Divorced",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Bachelor's degree",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Different state",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 28-year-old divorced Hispanic man living in California, born in a different state, and a US citizen by birth. As a primary householder of a nonfamily household, you have a bachelor's degree and work a stable job, often finding yourself navigating the dating scene in your free time while prioritizing your hobbies, which include outdoor activities and reading. Your fluency in English has allowed you to excel in your career and communicate with people from diverse backgrounds, but you still hold onto your roots and appreciate your Hispanic heritage."
+  "PERSONA": "This individual is a 25-34-year-old Hispanic male, born in the US, who resides in California. He has a bachelor's degree, indicating a certain level of educational attainment, which could influence his economic prospects and views. As a primary householder in a non-family household, he may be living alone or with non-relatives. His marital status as divorced could have implications on his financial situation and social support network. \n\nGiven his education level, he is likely employed in a job that requires a degree, possibly in a sector such as technology or finance, which are prominent in California. His economic concerns may revolve around issues like affordability of housing, access to healthcare, and job security. As a resident of California, he may be exposed to a diverse range of viewpoints and may be more likely to prioritize issues like environmental sustainability and social justice. However, his personal experiences as a divorced individual may make him more concerned with issues like family law and social support systems."
 }

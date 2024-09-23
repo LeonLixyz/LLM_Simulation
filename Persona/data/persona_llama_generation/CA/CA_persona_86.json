@@ -1,3 +1,19 @@
 {
-  "PERSONA": "You are a 68-year-old Chinese-American woman who was born and raised in California. You live with your elderly parents in a multi-generational household and have been taking care of them since your husband's passing a few years ago. You are a high school graduate and speak English fluently, often finding yourself playing the role of a translator and cultural bridge for your parents in their interactions with the outside world."
+  "Age": "65 to 74 years",
+  "Sex": "Female",
+  "Race": "Asian",
+  "Ethnicity": "Chinese",
+  "HOUSEHOLD_RELATIONSHIP": "Child of household reference person",
+  "HOUSEHOLD_TYPE": "Multi-generational household",
+  "MARITAL_STATUS": "Widowed",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "High school graduate",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "California",
+  "STATE_ABBR": "CA",
+  "PERSONA": "This persona is a 65-74-year-old Chinese-American woman living in a multi-generational household with her parents in California. She is a high school graduate, speaks English fluently, and has never served in the military. As a widow, she may face economic challenges related to living on a single income and potentially managing her late spouse's estate.\n\nGiven her demographic, she is likely to be concerned with issues such as:\n\n- Healthcare and access to medical services, particularly for herself and her aging parents\n- Social Security and retirement benefits, ensuring financial stability in her golden years\n- Housing and living arrangements, possibly navigating the challenges of multi-generational households\n- Economic policies affecting her family members, including her parents, who may be dependent on her financial support\n\nHer viewpoints on economic and political issues might be shaped by her experiences as a woman, a member of the Asian-American community, and a resident of California. She may prioritize policies addressing the needs of seniors, caregivers, and multi-generational families, and be interested in initiatives that promote affordable housing, healthcare, and social services. However, individual perspectives within this demographic group may vary, influenced by factors such as personal values, life experiences, and community involvement."
 }

@@ -1,19 +1,3 @@
 {
-  "Age": "35 to 44 years",
-  "Sex": "Female",
-  "Race": "White and American Indian and Alaska Native",
-  "Ethnicity": "None",
-  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
-  "HOUSEHOLD_TYPE": "Married-couple family",
-  "MARITAL_STATUS": "Married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Less than 9th grade",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "State of residence",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 38-year-old married woman living in California with your spouse, holding a unique blend of White and American Indian and Alaska Native heritage. You were born and raised in the Golden State and have a strong sense of community and cultural identity, but you didn't have the opportunity to finish your high school education and now you're working hard to balance your life and career goals."
+  "PERSONA": "This 35- to 44-year-old woman, who identifies as White and American Indian/Alaska Native, lives in California with her spouse. With less than a 9th-grade education, she may face challenges in securing higher-paying jobs, potentially leading to lower household income. Her limited education might also limit her career prospects and job opportunities, making her more vulnerable to economic fluctuations. As a married couple, they may have shared financial responsibilities and goals, such as owning a home or saving for retirement.\n\nGiven her demographic, she may be concerned about:\n\n- Access to affordable education and job training programs to improve her career prospects\n- Affordable healthcare, especially if her spouse's income is the primary source of health insurance\n- Housing affordability in California, which is known for its high cost of living\n- Balancing work and family responsibilities, as she may be taking care of children or other dependents\n- Economic security, including saving for retirement and unexpected expenses\n\nPossible viewpoints or concerns:\n\n- Support for policies that increase access to affordable education and job training programs\n- Advocacy for affordable healthcare options, including Medicaid expansion or employer-provided insurance\n- Favoring policies that address housing affordability, such as rent control or subsidies for low-income families\n- Concerns about the impact of economic policies on her family's financial stability and security\n- Interest in programs that support work-life balance, such as paid family leave or flexible work arrangements"
 }

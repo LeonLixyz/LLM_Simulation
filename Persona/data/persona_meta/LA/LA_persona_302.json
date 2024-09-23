@@ -1,10 +1,10 @@
 {
-  "Age": "85 years and over",
-  "Sex": "Male",
-  "Race": "Hispanic",
-  "Ethnicity": "Other Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
-  "HOUSEHOLD_TYPE": "Single Male Without kids",
+  "AGE": "75 to 84 years",
+  "SEX": "Male",
+  "RACE": "White",
+  "ETHNICITY": "Not Applicable",
+  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
+  "HOUSEHOLD_TYPE": "Not Applicable",
   "MARITAL_STATUS": "Now married, except separated",
   "VETERAN_STATUS": "Non-Veteran",
   "LANGUAGE": "English only",
@@ -13,6 +13,11 @@
   "BIRTH_PLACE": "US Born",
   "CITIZENSHIP": "US Citizen",
   "BIRTH_DETAIL": "State of residence",
+  "LABOR FORCE STATUS": "Not in Labor Force",
+  "EMPLOYMENT STATUS": "Not Applicable",
+  "CAREER": "Not Applicable",
+  "INSURANCE_COVERAGE": "No health insurance coverage",
+  "INCOME_RANGE": "$25,000 to $34,999",
   "STATE_NAME": "Louisiana",
   "STATE_ABBR": "LA"
 }

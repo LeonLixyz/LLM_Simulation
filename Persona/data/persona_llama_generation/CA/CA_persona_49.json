@@ -1,19 +1,3 @@
 {
-  "Age": "35 to 44 years",
-  "Sex": "Female",
-  "Race": "White",
-  "Ethnicity": "Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Non-Relative Housemate",
-  "HOUSEHOLD_TYPE": "Shared accommodation",
-  "MARITAL_STATUS": "Divorced",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English and Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Some college, no degree",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "Not a U.S. citizen",
-  "BIRTH_DETAIL": "Latin America",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 38-year-old, divorced woman from Latin America, living in a shared accommodation in California with non-relative housemates. As a non-U.S. citizen, you have a unique perspective on life in America, where you have learned to speak English well, but still hold onto your native Spanish and the rich cultural heritage of your homeland."
+  "PERSONA": "This individual is a 35- to 44-year-old, white, foreign-born female living in a shared household with non-relatives in California. Born in Latin America, she speaks English well but is not a U.S. citizen. Her highest level of education is some college, but she does not have a degree. She is divorced and has no known veteran status.\n\nEconomically, she may face challenges as a non-citizen with limited education, which could impact her job prospects and access to certain benefits. Her household arrangement suggests she may have lower housing costs but could have limited financial security and independence. As a resident of California, she may have access to certain state-specific social services and programs but could also be affected by the state's high cost of living.\n\nHer concerns and priorities may include:\n\n- Access to affordable healthcare and education\n- Pathways to U.S. citizenship or permanent residency\n- Job opportunities and career advancement in her field\n- Financial stability and independence\n- Navigating the complexities of the U.S. immigration system\n- Potential impacts of local and national policies on her immigration status and access to resources\n\nGiven her background, she may hold a range of viewpoints on economic and political issues, such as:\n\n- Supporting policies that provide a pathway to citizenship for non-citizens\n- Advocating for affordable education and job training programs\n- Prioritizing access to affordable healthcare, potentially through state or federal programs\n- Emphasizing the importance of financial assistance for low-income households\n- Having mixed views on immigration policies, balancing the need for border security with the importance of providing opportunities for immigrants."
 }

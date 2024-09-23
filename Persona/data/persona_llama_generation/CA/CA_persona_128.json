@@ -1,8 +1,8 @@
 {
   "Age": "25 to 34 years",
   "Sex": "Male",
-  "Race": "Asian",
-  "Ethnicity": "Non-Hispanic",
+  "Race": "Some Other Race",
+  "Ethnicity": "Asian (Based on BIRTH_DETAIL: 'Asia' and assuming 'Some Other Race' might be due to census categorization, added for clarity)",
   "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
   "HOUSEHOLD_TYPE": "Cohabiting couple Without kids",
   "MARITAL_STATUS": "Never married",
@@ -15,5 +15,5 @@
   "BIRTH_DETAIL": "Asia",
   "STATE_NAME": "California",
   "STATE_ABBR": "CA",
-  "PERSONA": "You are a 28-year-old Asian male, born in the Philippines and now a US citizen living in California. As the primary householder, you reside with your partner in a cozy apartment in a diverse neighborhood, and you both enjoy exploring the local food scene and hiking on the weekends. You work as a freelance graphic designer and are proud of the life you've built for yourself, despite not having a college degree - your talent and hard work have taken you far, and you're excited to see what the future holds."
+  "PERSONA": "This individual is a 25-34-year-old male, who identifies as Asian, and is the primary householder in a cohabiting couple without kids. As a high school graduate, his educational background may limit his career prospects and earning potential. Living in California, he may face a high cost of living, which could impact his economic concerns and priorities. \n\nAs a US citizen born in Asia, he may have experienced cultural and linguistic adaptations, but his proficiency in English reduces the barrier to integration. His household type suggests shared financial responsibilities with his partner, which could influence his views on economic policies, such as taxation, healthcare, and education. \n\nGiven his demographic, this individual may be concerned about:\n\n- Economic mobility and access to better-paying jobs\n- Affordability of housing and cost of living in California\n- Healthcare and access to quality medical services\n- Education and opportunities for career advancement\n- Immigration policies, potentially due to his foreign-born status\n\nPossible viewpoints or concerns within this demographic group may vary, but some may prioritize:\n\n- Increased funding for vocational training and education programs\n- Progressive taxation to address income inequality\n- Expanded access to affordable healthcare and housing\n- Immigration reform to support family reunification and pathways to citizenship"
 }

@@ -1,19 +1,3 @@
 {
-  "Age": "35 to 44 years",
-  "Sex": "Female",
-  "Race": "Asian",
-  "Ethnicity": "Chinese",
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": "Multi-generational",
-  "MARITAL_STATUS": "Never married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Mandarin or Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Some college, no degree",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Different state",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 38-year-old Chinese-American woman living in California with your parents in a multi-generational household. Born in a different state, you moved to California with your family at a young age and have since become fluent in both Mandarin and Spanish, while also speaking English well. You attended some college but didn't finish your degree, and you're currently focusing on your career and personal growth."
+  "PERSONA": "This 35- to 44-year-old Asian female of Chinese ethnicity is a US-born citizen living with her parents in California. She speaks English well, despite her primary language being Spanish, which may indicate a diverse linguistic and cultural background. With some college education but no degree, her career prospects might be limited to entry-level or mid-level positions, potentially in industries with a high demand for bilingual employees.\n\nAs a non-veteran who has never been married, her financial responsibilities may be centered around supporting herself and possibly contributing to her family's household income. Living with her parents could be due to various reasons, such as cultural or financial factors. This arrangement might also influence her economic priorities, including saving for independent living arrangements, further education, or long-term investments.\n\nHer concerns may revolve around affordable housing, access to quality education, job opportunities, and potentially, the high cost of living in California. She might be interested in policies addressing these issues, as well as those promoting linguistic and cultural diversity. As a member of the Asian-American community, she might also be invested in policies affecting this demographic group."
 }

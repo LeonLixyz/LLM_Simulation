@@ -1,3 +1,19 @@
 {
-  "PERSONA": "You are a 22-year-old married woman living in California with your spouse. You hold a graduate degree in environmental science and are passionate about sustainability, often volunteering at local organizations in your free time. As a native Californian, you enjoy outdoor activities like hiking and surfing, and value your close-knit community of friends and family."
+  "Age": "20 to 24 years",
+  "Sex": "Female",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": "Married Couple Family",
+  "MARITAL_STATUS": "Now married, except separated",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Graduate or professional degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "California",
+  "STATE_ABBR": "CA",
+  "PERSONA": "This individual is a 20- to 24-year-old white female, married and living with her spouse in California. Given her young age and marital status, she may be in the early stages of her career or furthering her education, as she already holds a graduate or professional degree. Her high level of education likely affords her a relatively stable economic situation and better job prospects. As a resident of California, she may be exposed to diverse cultural and socioeconomic environments, which could shape her views on social issues and economic policies.\n\nAs a married individual, she may prioritize family planning, healthcare, and education. Her household type, likely a married couple family, may influence her concerns about housing affordability, taxation, and dual-income household policies. Given her residence in California, a state known for its high cost of living, she may be concerned about housing costs, access to affordable healthcare, and the overall affordability of living in the state.\n\nPossible viewpoints or concerns for this demographic might include:\n\n- Support for policies promoting affordable housing and rent control\n- Advocacy for accessible and affordable healthcare, especially reproductive healthcare\n- Interest in education policies, including student loan reform and funding for higher education\n- Concerns about taxation and its impact on dual-income households\n- Views on environmental policies, given California's emphasis on sustainability and environmental protection\n- Potential interest in policies supporting young families, such as parental leave and childcare support"
 }

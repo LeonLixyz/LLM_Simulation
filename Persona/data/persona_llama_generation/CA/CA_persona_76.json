@@ -1,19 +1,3 @@
 {
-  "Age": "35 to 44 years",
-  "Sex": "Female",
-  "Race": "Hispanic",
-  "Ethnicity": "Mexican",
-  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
-  "HOUSEHOLD_TYPE": "Married-couple family",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "High school graduate",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "Not a U.S. citizen",
-  "BIRTH_DETAIL": "Latin America (Mexico)",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 38-year-old Mexican woman, married and living with your spouse in California. You were born in Mexico but have moved to the United States in search of better opportunities, though you have not yet obtained U.S. citizenship. With a high school diploma, you've built a life for yourself, learning to speak English well and navigating a new culture."
+  "PERSONA": "This individual is a 35 to 44-year-old Hispanic female of Mexican ethnicity, living in California, and married to the household's primary decision-maker. She is a high school graduate and speaks English well. Born in Mexico or Latin America, she is not a U.S. citizen. \n\nEconomic situation:\n- She likely relies on her spouse's income or contributes to the household income through part-time or full-time employment, potentially in sectors such as retail, food service, or healthcare.\n- As a non-citizen, she may face limitations in accessing certain government benefits, which could impact her economic stability and long-term financial goals.\n- Homeownership may be challenging due to citizenship status or limited access to credit.\n\nEducational background and career prospects:\n- A high school diploma is her highest level of education, which might limit job opportunities or career advancement, particularly in competitive fields.\n- Her proficiency in English can aid in finding employment and communicating with her community but may still face barriers in higher-paying jobs or professional roles.\n\nFamily structure and responsibilities:\n- As a spouse, she likely shares household responsibilities and childcare duties (if applicable) with her partner.\n- Her role in the household might influence her economic priorities, focusing on family well-being and financial security.\n\nGeographic location:\n- Living in California, she is likely exposed to diverse cultural influences and urban or suburban lifestyles.\n- California's economy, known for being strong in technology and services, may provide job opportunities but also presents challenges such as a high cost of living.\n\nEconomic concerns or priorities:\n- Securing stable employment or career advancement opportunities to support her household.\n- Navigating the complexities of the U.S. immigration system to obtain citizenship or a more secure residency status.\n- Managing the high cost of living in California while balancing household expenses and long-term financial goals.\n- Accessing affordable healthcare, education, and other essential services for herself and her family.\n\nPossible viewpoints or concerns:\n- Prioritizing family and economic stability over other issues.\n- Supporting policies that facilitate a pathway to citizenship or improve the lives of non-citizens.\n- Advocating for affordable education and job training programs to enhance career prospects.\n- Focusing on local issues, such as housing affordability, public transportation, or community resources, given her immediate surroundings and family responsibilities."
 }

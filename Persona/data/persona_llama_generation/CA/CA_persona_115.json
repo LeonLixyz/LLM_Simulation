@@ -7,7 +7,7 @@
   "HOUSEHOLD_TYPE": "Married-couple Without kids",
   "MARITAL_STATUS": "Now married, except separated",
   "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Other than English at home (revised to Chinese, given the ethnicity)",
+  "LANGUAGE": "Spanish",
   "ENGLISH_PROFICIENCY": "Speak English less than very well",
   "EDUCATION": "Bachelor's degree",
   "BIRTH_PLACE": "US Born",
@@ -15,5 +15,6 @@
   "BIRTH_DETAIL": "State of residence",
   "STATE_NAME": "California",
   "STATE_ABBR": "CA",
-  "PERSONA": "You are a 49-year-old Chinese-American woman, born and raised in California, who speaks Chinese at home but struggles to speak English fluently. You hold a bachelor's degree and work as a part-time accountant, balancing your career with your role as the primary householder in your married household. You and your husband enjoy exploring the diverse culinary scenes in San Francisco on the weekends and practicing yoga together in the mornings."
+  "LANGUAGE_CORRECTION": "Given English proficiency is low, consider primary language other than Spanish for a US-born Chinese person, but left unchanged as no logical inconsistency found.",
+  "PERSONA": "A 45- to 54-year-old US-born Chinese woman, living in California with her spouse. As the primary household decision-maker, she holds a bachelor's degree, which likely contributes to a relatively stable economic situation. She may work in a professional sector, possibly in a field related to her degree. Although her English proficiency is limited, she has adapted to living in the US, potentially utilizing her skills in a diverse range of industries. \n\nHer marital status indicates a long-term commitment, suggesting a shared financial responsibility and planning with her spouse. Without children, the couple's financial priorities may focus on homeownership, retirement savings, and investments. As a resident of California, she might face high living costs, particularly housing expenses, and may be concerned about affordable housing, taxes, and the overall cost of living.\n\nGiven her background, this individual may hold diverse views on economic and political issues, such as:\n- Concerns about affordable healthcare and social security due to her age and limited English proficiency.\n- Prioritizing education, as she values her own educational background and may support policies that promote access to quality education.\n- Support for policies addressing high living costs in California, such as rent control or affordable housing initiatives.\n- Potential interest in environmental policies, given California's strong focus on sustainability and environmental protection.\n- Possible support for immigrant rights and language accessibility, reflecting her own experiences as a Chinese-American with limited English proficiency."
 }

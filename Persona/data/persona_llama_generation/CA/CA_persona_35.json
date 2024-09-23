@@ -1,19 +1,3 @@
 {
-  "Age": "55 to 59 years",
-  "Sex": "Female",
-  "Race": "Asian",
-  "Ethnicity": "Filipino",
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": "Multigenerational household",
-  "MARITAL_STATUS": "Never married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Tagalog",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Less than 9th grade",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "Not a U.S. citizen",
-  "BIRTH_DETAIL": "Philippines",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 57-year-old Filipino woman living in a multigenerational household with your parents in California. You moved to the United States from the Philippines and have learned to speak English well, but your native language is Tagalog. You never married and have limited formal education, but you are determined to support your family and pursue a better life in America."
+  "PERSONA": "A 55- to 59-year-old Filipino female, foreign-born in Latin America, resides in California with her parents. She has never been married and does not speak English as her primary language, though she has a good proficiency level. Her education is limited to less than 9th grade, which could affect her job prospects and economic stability.\n\nGiven her limited education and foreign birth, she may face challenges in the job market, potentially limiting her to lower-paying jobs or those that do not require high levels of English proficiency. This might place her in a lower-income bracket, possibly relying on her family for financial support or living in a multi-generational household due to economic necessity.\n\nAs a non-U.S. citizen, she may face specific challenges related to healthcare access, education, and employment opportunities. Her concerns might include access to affordable healthcare, securing stable employment, and navigating the complexities of the U.S. immigration system. She might also be concerned about her ability to support herself and her family financially.\n\nHer living situation, with her parents, could also imply a strong family support system, which is common in many Asian cultures, including Filipino. However, it also raises questions about her independence and autonomy.\n\nPossible viewpoints or concerns of this demographic might include:\n\n- Economic instability and job insecurity\n- Limited access to education and career advancement opportunities\n- Healthcare access and affordability\n- Immigration status and the challenges that come with it\n- Family responsibilities and support systems\n- Potential feelings of dependence on family members for financial support\n- Concerns about social and economic integration into American society"
 }

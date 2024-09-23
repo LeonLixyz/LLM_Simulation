@@ -1,0 +1,72 @@
+{
+  "EMPLOYMENT STATISTICS": {
+    "Population 16 years and over": {
+      "Total": 6357108,
+      "Labor Force Participation Rate": 65.1,
+      "Employment/Population Ratio": 61.1,
+      "Unemployment rate": 4.5
+    },
+    "AGE": {
+      "16 to 19 years": {
+        "Total": 370788,
+        "Labor Force Participation Rate": 40.6,
+        "Employment/Population Ratio": 33.3,
+        "Unemployment rate": 16.5
+      },
+      "20 to 24 years": {
+        "Total": 475123,
+        "Labor Force Participation Rate": 81.8,
+        "Employment/Population Ratio": 71.0,
+        "Unemployment rate": 8.1
+      },
+      "25 to 29 years": {
+        "Total": 553933,
+        "Labor Force Participation Rate": 85.9,
+        "Employment/Population Ratio": 79.6,
+        "Unemployment rate": 4.2
+      },
+      "30 to 34 years": {
+        "Total": 624403,
+        "Labor Force Participation Rate": 84.3,
+        "Employment/Population Ratio": 79.1,
+        "Unemployment rate": 4.2
+      },
+      "35 to 44 years": {
+        "Total": 1141668,
+        "Labor Force Participation Rate": 84.6,
+        "Employment/Population Ratio": 80.3,
+        "Unemployment rate": 3.7
+      },
+      "45 to 54 years": {
+        "Total": 933149,
+        "Labor Force Participation Rate": 82.5,
+        "Employment/Population Ratio": 79.7,
+        "Unemployment rate": 3.1
+      },
+      "55 to 59 years": {
+        "Total": 435575,
+        "Labor Force Participation Rate": 76.1,
+        "Employment/Population Ratio": 73.0,
+        "Unemployment rate": 4.1
+      },
+      "60 to 64 years": {
+        "Total": 483339,
+        "Labor Force Participation Rate": 60.3,
+        "Employment/Population Ratio": 58.9,
+        "Unemployment rate": 2.4
+      },
+      "65 to 74 years": {
+        "Total": 802069,
+        "Labor Force Participation Rate": 25.5,
+        "Employment/Population Ratio": 24.7,
+        "Unemployment rate": 3.0
+      },
+      "75 years and over": {
+        "Total": 537061,
+        "Labor Force Participation Rate": 6.0,
+        "Employment/Population Ratio": 5.7,
+        "Unemployment rate": 3.9
+      }
+    }
+  }
+}

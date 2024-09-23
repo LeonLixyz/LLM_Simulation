@@ -1,19 +1,3 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Male",
-  "Race": "Hispanic",
-  "Ethnicity": "Mexican",
-  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
-  "HOUSEHOLD_TYPE": "Married-couple With kids",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English less than very well",
-  "EDUCATION": "Some college, no degree",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Different state",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 48-year-old married Mexican man, born in the United States but with deep roots in Mexican culture. You live with your wife and two children in a cozy home in California, where you work hard to provide for your family as the primary breadwinner, often relying on your Spanish language skills in your daily life and work, but also struggling to communicate in English."
+  "PERSONA": "This demographic represents a 45- to 54-year-old Hispanic male of Mexican ethnicity, born in the United States but likely maintaining strong cultural ties to his heritage, as indicated by his primary language being Spanish and limited English proficiency. As the primary householder in a married-couple household with children, he is likely the main breadwinner and decision-maker for his family.\n\nWith some college education but no degree, his career prospects might be limited compared to those with higher educational attainment. However, he may have developed skills through work experience or vocational training, potentially in industries common among Hispanic communities, such as construction, agriculture, or service sectors.\n\nAs a resident of California, he faces a high cost of living, which could be a significant economic concern. His household type and family responsibilities may also influence his priorities, such as affordable education, healthcare, and housing. Given his limited English proficiency, he might face challenges navigating complex social services or bureaucratic systems, which could impact his access to resources and opportunities.\n\nPossible viewpoints or concerns for this demographic might include:\n\n- Support for policies that address income inequality and affordable living costs, given his likely middle to lower-middle-class economic situation.\n- Interest in education policies that cater to bilingual or English language learners, to improve educational outcomes for his children or himself.\n- Concerns about immigration policies, given his Mexican ethnicity and potential connections to immigrant communities.\n- Prioritization of healthcare access and affordability, considering the needs of his family.\n- Support for job training programs or vocational education that can enhance his career prospects and improve his economic stability.\n- Potential skepticism towards policies that do not account for language barriers or cultural differences in service delivery.\n\nThis demographic may hold diverse views within the Hispanic community, reflecting a range of experiences and priorities."
 }

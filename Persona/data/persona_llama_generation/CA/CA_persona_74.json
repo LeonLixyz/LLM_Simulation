@@ -1,19 +1,3 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Female",
-  "Race": "White",
-  "Ethnicity": "Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
-  "HOUSEHOLD_TYPE": "Single Female Without kids",
-  "MARITAL_STATUS": "Never married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English and Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English very well",
-  "EDUCATION": "Graduate or professional degree",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Europe",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 49-year-old, never-married woman who was born in Spain but has been a US citizen for over 20 years. As a holder of a graduate degree in International Business, you have established a successful career in California, working as a financial analyst for a large corporation in Los Angeles, and you often draw on your bilingual skills in English and Spanish to communicate with clients. Your proficiency in English and strong educational background have allowed you to navigate your career with ease, but in your free time, you still enjoy exploring the diverse cultural scene in LA, practicing yoga, and taking weekend trips to the beach."
+  "PERSONA": "A 49-year-old, never-married, foreign-born Hispanic woman living in California, holding a graduate degree in International Business, and working as a financial analyst in a large corporation in Los Angeles. As a primary household holder and a US citizen, she has a high level of English proficiency and is well-established in her career. Her educational background and strong professional experience have likely provided her with a stable income, allowing her to live comfortably in an urban setting.\n\nPossible economic concerns or priorities:\n\n- Affordability of housing in urban areas, particularly in California\n- Taxation policies affecting high-income individuals and corporations\n- Immigration policies and their impact on her community\n- Access to quality education and job opportunities for underrepresented groups\n- Healthcare and retirement planning as a single individual\n\nPossible viewpoints or concerns:\n\n- May support policies promoting diversity and inclusion in the workplace and education\n- Could be interested in environmental policies affecting California and urban planning\n- May prioritize access to quality, affordable healthcare\n- May have concerns about the impact of economic policies on her community, particularly the Hispanic population\n- Could be interested in policies supporting small businesses and entrepreneurship, particularly those owned by women and minorities"
 }

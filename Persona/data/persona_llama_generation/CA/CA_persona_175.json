@@ -1,0 +1,19 @@
+{
+  "Age": "35 to 44 years",
+  "Sex": "Female",
+  "Race": "Hispanic",
+  "Ethnicity": "Mexican",
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": "Married-couple family",
+  "MARITAL_STATUS": "Now married, except separated",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "Spanish",
+  "ENGLISH_PROFICIENCY": "Speak English less than very well",
+  "EDUCATION": "High school graduate",
+  "BIRTH_PLACE": "Foreign Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "Foreign Country, Africa is not a country of origin for most Mexican individuals, likely incorrect. Replaced with 'Foreign Country'",
+  "STATE_NAME": "California",
+  "STATE_ABBR": "CA",
+  "PERSONA": "A 35- to 44-year-old, foreign-born Mexican-American woman, married and living in a married-couple family household in California. She is a high school graduate with limited English proficiency, primarily speaking Spanish at home. Her economic situation may be influenced by her spouse's income, as she is listed as the spouse of the householder. She may have job opportunities limited by her language proficiency and education level, which could affect her family's overall economic stability.\n\nPossible economic concerns for this demographic include access to better-paying jobs, affordable healthcare, and education opportunities for herself and her family. She may also be interested in policies supporting immigrant communities and language access programs. Her experience as a US citizen who was foreign-born may lead to a unique perspective on immigration policies and the importance of a clear pathway to citizenship.\n\nAs a resident of California, she may be concerned about the state's cost of living, particularly housing costs, and the impact of state policies on her family's well-being. Her views on education policy may prioritize bilingual programs and affordable access to higher education."
+}

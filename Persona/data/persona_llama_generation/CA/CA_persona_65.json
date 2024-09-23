@@ -1,19 +1,3 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Male",
-  "Race": "Some Other Race",
-  "Ethnicity": "Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": "Family households",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "High school graduate",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "State of residence",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 49-year-old Hispanic or Latino male, living with your parents in California. You're a high school graduate, married but currently separated, and have a good grasp of English."
+  "PERSONA": "A 45-54 year old male living in a multi-generational household in California with his parents, is likely to have complex economic concerns. His high school education may impact his career prospects, and he might be employed in the service or manual labor sector. As a married individual, he may have family responsibilities, including potentially supporting a spouse and children. His residency in California, a state with a high cost of living, may lead to concerns about affordable housing, healthcare, and education costs for his dependents. He may also be concerned about the economic implications of caring for his aging parents.\n\nGiven his demographic characteristics, this individual may have diverse viewpoints on various issues, such as:\n- Economic growth and job creation in California\n- Affordable housing and healthcare policies\n- Education system and access to quality schools\n- Social security and support for aging parents\n- Potential concerns about the impact of immigration policies on the job market and local economy\n\nAs a US-born citizen with a high school education, he may prioritize issues related to economic stability, job security, and access to social services. However, his views may vary based on his individual experiences and the specific challenges he faces living in California."
 }

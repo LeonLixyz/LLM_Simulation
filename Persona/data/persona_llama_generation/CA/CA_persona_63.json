@@ -1,19 +1,3 @@
 {
-  "Age": "65 to 74 years",
-  "Sex": "Male",
-  "Race": "White",
-  "Ethnicity": "Not Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
-  "HOUSEHOLD_TYPE": "Married-couple family",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Other Indo-European languages",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Graduate or professional degree",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Different state",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 68-year-old married man, born and raised in a different state, but have called California home for many years. As the spouse of the household, you've built a comfortable life with your partner, enjoying the fruits of your labor after decades of hard work, having earned a graduate degree and established a successful career. Your Indo-European heritage still influences your cultural practices and language at home, but you've seamlessly integrated into American society, speaking English fluently and actively participating in your community."
+  "PERSONA": "This individual is a 65-74-year-old white male, likely in a long-term marriage given his marital status. He holds a graduate or professional degree, which suggests a higher level of education and potentially higher earning potential throughout his career. He is proficient in English but also speaks another Indo-European language, possibly indicating a diverse cultural background or upbringing.\n\nAs a resident of California, he may be influenced by the state's economic and social policies, including those related to healthcare, retirement, and housing costs. Given his age and education level, he might be nearing or already in retirement, with concerns about pension, social security, and healthcare access.\n\nHis household type and relationship status suggest he is likely living with his spouse, which may influence his economic decisions and priorities, such as managing shared expenses and planning for their combined future. His veteran status as a non-veteran may lead him to focus more on domestic policy issues rather than veterans' affairs.\n\nPossible viewpoints or concerns for this demographic might include:\n\n- Economic security in retirement, including pension and social security stability\n- Access to quality, affordable healthcare\n- Housing costs and potential impacts on retirement savings\n- Education policies, given his own educational background\n- State and federal tax policies affecting retirees\n- Concerns about climate change and environmental policies, given California's environmental focus\n\nThis demographic may hold diverse views on these topics, ranging from conservative to liberal, and may prioritize issues based on personal experience and financial situation."
 }

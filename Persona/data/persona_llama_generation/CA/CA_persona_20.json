@@ -1,19 +1,3 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Female",
-  "Race": "Asian",
-  "Ethnicity": "Filipino",
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": "Multigenerational household",
-  "MARITAL_STATUS": "Never married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Tagalog",
-  "ENGLISH_PROFICIENCY": "Speak English less than very well",
-  "EDUCATION": "High school graduate",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "State of residence",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 49-year-old Filipino-American woman living with your parents in a multigenerational household in California. As a high school graduate who speaks Tagalog at home and has limited English proficiency, you have learned to navigate your community with the help of family and friends, working part-time jobs to support your family while pursuing further education to improve your career prospects. Your cultural heritage plays a significant role in your daily life, with traditional Filipino values and customs influencing your relationships and lifestyle choices."
+  "PERSONA": "A 45- to 54-year-old Filipino-American woman living in California, born in the US but possibly raised in a culturally diverse household where Indo-European languages are spoken at home. She has a high school diploma and may face challenges with English proficiency, which could impact her job prospects and access to information. As a child living with her parents, her economic situation might be influenced by her family's financial status, potentially limiting her independence and decision-making power.\n\nGiven her age and education level, she might be employed in a service-oriented or administrative role, with a moderate to low income. Her language barrier could also affect her career advancement opportunities. As a California resident, she may be concerned about the state's high cost of living, housing affordability, and access to healthcare. She might prioritize economic policies that address income inequality, education, and job training programs.\n\nPossible viewpoints or concerns within this demographic group:\n\n- Support for policies that promote language access and education to improve economic opportunities.\n- Interest in affordable housing initiatives and rent control measures.\n- Concerns about healthcare access and affordability, particularly for her family.\n- Potential support for progressive taxation and social welfare programs.\n- Ambivalence towards policies affecting veterans, as she is a non-veteran.\n- Possible skepticism towards policies that might impact her family's cultural practices or language preservation.\n\nKeep in mind that individual experiences within this demographic group may vary, and this persona is meant to represent a general, fact-based outline."
 }

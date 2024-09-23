@@ -1,0 +1,230 @@
+{
+  "Male": {
+    "Total": 864048,
+    "Management, business, science, and arts occupations": {
+      "Total": 298558,
+      "Subcategories": {
+        "Management, business, and financial occupations": {
+          "Total": 148612,
+          "Subcategories": {
+            "Management occupations": 110726,
+            "Business and financial operations occupations": 37886
+          }
+        },
+        "Computer, engineering, and science occupations": {
+          "Total": 76667,
+          "Subcategories": {
+            "Computer and mathematical occupations": 37154,
+            "Architecture and engineering occupations": 29468,
+            "Life, physical, and social science occupations": 10045
+          }
+        },
+        "Education, legal, community service, arts, and media occupations": {
+          "Total": 52625,
+          "Subcategories": {
+            "Community and social services occupations": 9988,
+            "Legal occupations": 4227,
+            "Education, training, and library occupations": 26906,
+            "Arts, design, entertainment, sports, and media occupations": 11504
+          }
+        },
+        "Healthcare practitioner and technical occupations": {
+          "Total": 20654,
+          "Subcategories": {
+            "Health diagnosing and treating practitioners and other technical occupations": 16269,
+            "Health technologists and technicians": 4385
+          }
+        }
+      }
+    },
+    "Service occupations": {
+      "Total": 96716,
+      "Subcategories": {
+        "Healthcare support occupations": {
+          "Total": 6151,
+          "Subcategories": {}
+        },
+        "Protective service occupations": {
+          "Total": 17710,
+          "Subcategories": {
+            "Fire fighting and prevention, and other protective service workers including supervisors": 8712,
+            "Law enforcement workers including supervisors": 8998
+          }
+        },
+        "Food preparation and serving related occupations": {
+          "Total": 33971,
+          "Subcategories": {}
+        },
+        "Building and grounds cleaning and maintenance occupations": {
+          "Total": 30113,
+          "Subcategories": {}
+        },
+        "Personal care and service occupations": {
+          "Total": 8771,
+          "Subcategories": {}
+        }
+      }
+    },
+    "Sales and office occupations": {
+      "Total": 112978,
+      "Subcategories": {
+        "Sales and related occupations": {
+          "Total": 73790,
+          "Subcategories": {}
+        },
+        "Office and administrative support occupations": {
+          "Total": 39188,
+          "Subcategories": {}
+        }
+      }
+    },
+    "Natural resources, construction, and maintenance occupations": {
+      "Total": 156970,
+      "Subcategories": {
+        "Farming, fishing, and forestry occupations": {
+          "Total": 11186,
+          "Subcategories": {}
+        },
+        "Construction and extraction occupations": {
+          "Total": 84576,
+          "Subcategories": {}
+        },
+        "Installation, maintenance, and repair occupations": {
+          "Total": 61208,
+          "Subcategories": {}
+        }
+      }
+    },
+    "Production, transportation, and material moving occupations": {
+      "Total": 198826,
+      "Subcategories": {
+        "Production occupations": {
+          "Total": 92293,
+          "Subcategories": {}
+        },
+        "Transportation occupations": {
+          "Total": 53839,
+          "Subcategories": {}
+        },
+        "Material moving occupations": {
+          "Total": 52694,
+          "Subcategories": {}
+        }
+      }
+    }
+  },
+  "Female": {
+    "Total": 790232,
+    "Management, business, science, and arts occupations": {
+      "Total": 358970,
+      "Subcategories": {
+        "Management, business, and financial occupations": {
+          "Total": 128663,
+          "Subcategories": {
+            "Management occupations": 73220,
+            "Business and financial operations occupations": 55443
+          }
+        },
+        "Computer, engineering, and science occupations": {
+          "Total": 24045,
+          "Subcategories": {
+            "Computer and mathematical occupations": 12485,
+            "Architecture and engineering occupations": 5172,
+            "Life, physical, and social science occupations": 6388
+          }
+        },
+        "Education, legal, community service, arts, and media occupations": {
+          "Total": 123672,
+          "Subcategories": {
+            "Community and social services occupations": 20870,
+            "Legal occupations": 6242,
+            "Education, training, and library occupations": 82633,
+            "Arts, design, entertainment, sports, and media occupations": 13927
+          }
+        },
+        "Healthcare practitioner and technical occupations": {
+          "Total": 82590,
+          "Subcategories": {
+            "Health diagnosing and treating practitioners and other technical occupations": 57928,
+            "Health technologists and technicians": 24662
+          }
+        }
+      }
+    },
+    "Service occupations": {
+      "Total": 153588,
+      "Subcategories": {
+        "Healthcare support occupations": {
+          "Total": 41306,
+          "Subcategories": {}
+        },
+        "Protective service occupations": {
+          "Total": 6221,
+          "Subcategories": {
+            "Fire fighting and prevention, and other protective service workers including supervisors": 4725,
+            "Law enforcement workers including supervisors": 1496
+          }
+        },
+        "Food preparation and serving related occupations": {
+          "Total": 51127,
+          "Subcategories": {}
+        },
+        "Building and grounds cleaning and maintenance occupations": {
+          "Total": 21504,
+          "Subcategories": {}
+        },
+        "Personal care and service occupations": {
+          "Total": 33430,
+          "Subcategories": {}
+        }
+      }
+    },
+    "Sales and office occupations": {
+      "Total": 196698,
+      "Subcategories": {
+        "Sales and related occupations": {
+          "Total": 69958,
+          "Subcategories": {}
+        },
+        "Office and administrative support occupations": {
+          "Total": 126740,
+          "Subcategories": {}
+        }
+      }
+    },
+    "Natural resources, construction, and maintenance occupations": {
+      "Total": 10215,
+      "Subcategories": {
+        "Farming, fishing, and forestry occupations": {
+          "Total": 3834,
+          "Subcategories": {}
+        },
+        "Construction and extraction occupations": {
+          "Total": 3823,
+          "Subcategories": {}
+        },
+        "Installation, maintenance, and repair occupations": {
+          "Total": 2558,
+          "Subcategories": {}
+        }
+      }
+    },
+    "Production, transportation, and material moving occupations": {
+      "Total": 70761,
+      "Subcategories": {
+        "Production occupations": {
+          "Total": 39895,
+          "Subcategories": {}
+        },
+        "Transportation occupations": {
+          "Total": 6736,
+          "Subcategories": {}
+        },
+        "Material moving occupations": {
+          "Total": 24130,
+          "Subcategories": {}
+        }
+      }
+    }
+  }
+}

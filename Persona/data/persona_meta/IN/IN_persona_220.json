@@ -1,8 +1,8 @@
 {
-  "Age": "55 to 59 years",
-  "Sex": "Male",
-  "Race": "White",
-  "Ethnicity": null,
+  "AGE": "55 to 59 years",
+  "SEX": "Male",
+  "RACE": "White",
+  "ETHNICITY": "Not Applicable",
   "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
   "HOUSEHOLD_TYPE": "Married-couple Without kids",
   "MARITAL_STATUS": "Never married",
@@ -13,6 +13,11 @@
   "BIRTH_PLACE": "US Born",
   "CITIZENSHIP": "US Citizen",
   "BIRTH_DETAIL": "State of residence",
+  "LABOR FORCE STATUS": "In Labor Force",
+  "EMPLOYMENT STATUS": "Employed",
+  "CAREER": "Sales and related occupations",
+  "INSURANCE_COVERAGE": "Private health insurance",
+  "INCOME_RANGE": "$50,000 to $74,999",
   "STATE_NAME": "Indiana",
   "STATE_ABBR": "IN"
 }

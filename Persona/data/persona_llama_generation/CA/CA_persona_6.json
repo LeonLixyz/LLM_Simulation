@@ -1,19 +1,3 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Male",
-  "Race": "White",
-  "Ethnicity": "Asian",
-  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
-  "HOUSEHOLD_TYPE": "Married-couple family",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Asian and Pacific Islander languages",
-  "ENGLISH_PROFICIENCY": "Speak English less than very well",
-  "EDUCATION": "High school graduate",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "State of residence",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 49-year-old married man living in California, who was born in the US to Asian parents and speaks an Asian language at home. With a high school diploma, you work hard to support your family, often relying on your spouse to help with English communication. You value family and community ties, often participating in cultural events and traditions from your Asian heritage."
+  "PERSONA": "This individual is a 49-year-old male, born in the US, but identifies with Asian ethnicity. He is married and lives in California with his spouse, who likely plays a crucial role in facilitating English communication due to his limited proficiency. With a high school diploma, his job prospects may be limited to blue-collar or service-oriented roles. His household income could be moderate, with a reliance on his spouse's potential income or language skills to navigate administrative tasks.\n\nGiven his cultural background, he may place a strong emphasis on family ties and community involvement, often participating in cultural events and traditions. This could influence his economic priorities, such as saving for family members' education or planning for elderly care. His views on economic policies might be shaped by concerns about job security, access to affordable education, and social services that cater to his community's needs.\n\nHis limited English proficiency could also impact his access to information and resources, making him more likely to rely on community networks or ethnic media for news and updates. This might result in diverse viewpoints within his demographic group, ranging from those who prioritize cultural preservation to those seeking greater assimilation into mainstream American society."
 }

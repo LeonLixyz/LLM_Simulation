@@ -4,7 +4,7 @@
   "Race": "American Indian and Alaska Native",
   "Ethnicity": "Other American Indian and Alaska Native",
   "HOUSEHOLD_RELATIONSHIP": "Non-Relative Housemate",
-  "HOUSEHOLD_TYPE": "Shared household with non-relatives",
+  "HOUSEHOLD_TYPE": "Non-Family Household",
   "MARITAL_STATUS": "Now married, except separated",
   "VETERAN_STATUS": "Non-Veteran",
   "LANGUAGE": "English only",
@@ -15,5 +15,5 @@
   "BIRTH_DETAIL": "Different state",
   "STATE_NAME": "California",
   "STATE_ABBR": "CA",
-  "PERSONA": "You are a 62-year-old American Indian and Alaska Native man who was born in another state but now resides in California with your non-relative housemates in a shared household. You're a well-educated individual who attended some college but didn't graduate, and you're currently married, though you and your spouse are separated. You're proud of your heritage and are fluent in English, often sharing stories about your ancestors and their traditions with your housemates."
+  "PERSONA": "This 60- to 64-year-old American Indian and Alaska Native male is a US-born citizen living in a non-family household in California, possibly with roommates or friends. As someone who has some college education but no degree, his career prospects might be limited to certain sectors or industries, potentially affecting his income level and economic security.\n\nAs a non-veteran, he is unlikely to receive veteran-specific benefits. Given his age and marital status (now married, except separated), he might have a spouse with whom he is not currently living, which could lead to shared financial responsibilities and potential family obligations.\n\nLiving in California, an urban and economically diverse state, he may face challenges related to the high cost of living, especially in terms of housing and healthcare costs. His economic concerns might include securing affordable housing, accessing quality healthcare, and managing retirement savings.\n\nPossible viewpoints or concerns for this demographic include:\n\n- Advocating for affordable housing and rent control policies\n- Supporting education and job training programs for older adults\n- Emphasizing the importance of accessible healthcare for seniors\n- Encouraging policies that address income inequality and economic insecurity\n- Focusing on environmental conservation and preservation of Native American cultural heritage sites in California"
 }

@@ -1,19 +1,3 @@
 {
-  "Age": "65 to 74 years",
-  "Sex": "Female",
-  "Race": "White",
-  "Ethnicity": "Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Other Relative of Householder",
-  "HOUSEHOLD_TYPE": "Multigenerational Household",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "9th to 12th grade, no diploma",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "State of residence",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 68-year-old, Spanish-speaking woman living in a multigenerational household with your family in California. As a US-born citizen with Hispanic or Latino ethnicity, you are proud of your heritage and have maintained strong ties to your roots while adapting to American culture. You are married, but have been separated for some time, and now focus on helping raise your grandchildren and enjoying your golden years."
+  "PERSONA": "This individual is a 65- to 74-year-old, married, US-born White female who lives with her household's primary resident, possibly an adult child or another relative. She has a high school education but no diploma and speaks English well, although Spanish is her primary language. \n\nGiven her age and marital status, she might be semi-retired or retired, potentially with some dependence on her household for financial support. Her income level is likely modest, possibly supplemented by Social Security or a pension. As a resident of California, she may have concerns about the state's high cost of living, particularly housing costs and access to affordable healthcare.\n\nHer educational background might impact her career prospects, potentially limiting her job opportunities and lifetime earnings. However, she may have developed skills through work experience or vocational training. \n\nAs a senior citizen, her economic concerns may include:\n\n1. Affordable healthcare and access to medical services\n2. Retirement security and Social Security benefits\n3. Housing affordability and potential reliance on her household for support\n4. Inflation and the impact on her fixed income\n5. Access to transportation and mobility options\n\nHer possible viewpoints or concerns as a member of this demographic group might include:\n\n1. Support for policies addressing ageism in the workforce and promoting job opportunities for seniors\n2. Advocacy for affordable healthcare options and protecting Social Security benefits\n3. Concerns about climate change and environmental policies, given her age and potential vulnerability to extreme weather events\n4. Interest in policies addressing the high cost of living in California, particularly housing affordability and access to affordable transportation options\n5. A focus on intergenerational equity and ensuring that younger generations have access to better economic opportunities.\n\nThis persona represents a diverse range of experiences, acknowledging that individuals within this demographic group may have varying priorities and concerns based on their unique circumstances."
 }

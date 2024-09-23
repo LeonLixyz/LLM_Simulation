@@ -1,19 +1,3 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Male",
-  "Race": "Hispanic",
-  "Ethnicity": "Mexican",
-  "HOUSEHOLD_RELATIONSHIP": "Other Relative of Householder",
-  "HOUSEHOLD_TYPE": "Multigenerational",
-  "MARITAL_STATUS": "Now married, except separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "High school graduate",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Mexico",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 49-year-old Mexican man living with your extended family in a multigenerational household in California. As a naturalized US citizen born in Mexico, you are fluent in Spanish and speak English well, often serving as a translator for your family. You have a high school diploma and have been married for over two decades, working hard to provide for your loved ones."
+  "PERSONA": "A 45-54-year-old Mexican male, married, and living with a relative in California. He speaks Spanish as his primary language but also speaks English well, which enables him to effectively communicate and engage in the local economy. Having graduated from high school, his educational background may impact his job prospects and income level. He is likely to work in sectors that value bilingual skills or have a strong Hispanic presence, such as service industries, construction, or manufacturing. His economic situation may be influenced by his household composition, potentially sharing living expenses with family members, which could affect his disposable income and financial priorities.\n\nPossible viewpoints or concerns for this demographic might include:\n- Access to affordable healthcare, education, and job opportunities that value his language skills.\n- Immigration policies and their impact on family members or the broader Hispanic community.\n- Economic development and growth in California, particularly in regions with high Hispanic populations.\n- Cultural preservation and representation in local politics and social services.\n- Concerns about gentrification and rising living costs in urban areas, affecting his household's financial stability.\n- Prioritizing policies that support bilingual education, job training programs, and small business development in Hispanic communities.\n\nThis persona highlights the diversity of experiences within the Hispanic community, acknowledging the individual's unique circumstances as a Mexican-born, US citizen living in California, and the potential economic and social factors that shape his views."
 }

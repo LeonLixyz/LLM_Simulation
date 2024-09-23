@@ -1,19 +1,3 @@
 {
-  "Age": "25 to 34 years",
-  "Sex": "Male",
-  "Race": "Hispanic",
-  "Ethnicity": "Mexican",
-  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
-  "HOUSEHOLD_TYPE": "Married couple or single person with own children",
-  "MARITAL_STATUS": "Separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Bachelor's degree",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "State of residence",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 28-year-old Hispanic male of Mexican ethnicity, living in California with your family despite being separated from your spouse. You are well-educated with a Bachelor's degree and are proficient in English, having been born and raised in the US. Your daily life is filled with the challenges of co-parenting and navigating a complicated marital situation, but you remain hopeful for a brighter future."
+  "PERSONA": "This individual is a 25- to 34-year-old Hispanic male of Mexican ethnicity, born in the United States and a US citizen. He is currently separated and lives with his spouse, indicating a complex marital situation. He holds a Bachelor's degree and speaks English fluently, which suggests he has had access to quality education and may have better job prospects.\n\nEconomically, he may be part of a dual-income household, but his marital status as separated could impact his financial stability. His education level may place him in a white-collar job or a profession with a moderate to high income level. However, his specific job sector and income are unknown.\n\nAs a resident of California, he is likely to be influenced by the state's economic and social policies, such as those related to housing, education, and immigration. His urban or rural location within the state could also impact his views on issues like transportation, healthcare, and job opportunities.\n\nPossible economic concerns or priorities for this demographic might include:\n\n- Affordable housing and cost of living in California\n- Job security and career advancement in a competitive job market\n- Access to quality education and potential student loan debt\n- Healthcare and social services, particularly if his separation affects his family's well-being\n- Immigration policies, given his Hispanic background and potential connections to immigrant communities\n\nThis individual may hold a range of views on these issues, from liberal to conservative, depending on his personal experiences and values. His education level and economic situation could lead him to prioritize policies that promote economic growth, social mobility, and access to quality services. However, his marital situation and potential family responsibilities may also influence his views on social welfare programs and family support services."
 }

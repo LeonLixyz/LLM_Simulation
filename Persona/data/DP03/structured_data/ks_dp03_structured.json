@@ -1,0 +1,104 @@
+{
+  "HEALTH INSURANCE COVERAGE": {
+    "Civilian noninstitutionalized population 19 to 64 years": {
+      "Total": 1650054,
+      "With health insurance coverage": {
+        "Employed": {
+          "count": 1184033,
+          "percentage": 89.9,
+          "Private health insurance": {
+            "count": 1130032,
+            "percentage": 85.8
+          },
+          "Public coverage": {
+            "count": 91323,
+            "percentage": 6.9
+          }
+        },
+        "Unemployed": {
+          "count": 27322,
+          "percentage": 66.0,
+          "Private health insurance": {
+            "count": 19041,
+            "percentage": 46.0
+          },
+          "Public coverage": {
+            "count": 10308,
+            "percentage": 24.9
+          }
+        },
+        "Not in labor force": {
+          "count": 242988,
+          "percentage": 83.5,
+          "Private health insurance": {
+            "count": 167375,
+            "percentage": 57.5
+          },
+          "Public coverage": {
+            "count": 100840,
+            "percentage": 34.7
+          }
+        }
+      },
+      "No health insurance coverage": {
+        "Employed": {
+          "count": 133722,
+          "percentage": 10.1
+        },
+        "Unemployed": {
+          "count": 14060,
+          "percentage": 34.0
+        },
+        "Not in labor force": {
+          "count": 47929,
+          "percentage": 16.5
+        }
+      }
+    }
+  },
+  "INCOME AND BENEFITS": {
+    "Total households": 1188340,
+    "Less than $10,000": {
+      "count": 54323,
+      "percentage": 4.6
+    },
+    "$10,000 to $14,999": {
+      "count": 38137,
+      "percentage": 3.2
+    },
+    "$15,000 to $24,999": {
+      "count": 83749,
+      "percentage": 7.0
+    },
+    "$25,000 to $34,999": {
+      "count": 97019,
+      "percentage": 8.2
+    },
+    "$35,000 to $49,999": {
+      "count": 144460,
+      "percentage": 12.2
+    },
+    "$50,000 to $74,999": {
+      "count": 212567,
+      "percentage": 17.9
+    },
+    "$75,000 to $99,999": {
+      "count": 161598,
+      "percentage": 13.6
+    },
+    "$100,000 to $149,999": {
+      "count": 204686,
+      "percentage": 17.2
+    },
+    "$150,000 to $199,999": {
+      "count": 94570,
+      "percentage": 8.0
+    },
+    "$200,000 or more": {
+      "count": 97231,
+      "percentage": 8.2
+    },
+    "Median household income (dollars)": 70333,
+    "Mean household income (dollars)": 93781
+  }
+}

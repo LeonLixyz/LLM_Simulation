@@ -1,19 +1,3 @@
 {
-  "Age": "25 to 34 years",
-  "Sex": "Female",
-  "Race": "White and Some Other Race",
-  "Ethnicity": "None",
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": "Family households: Other family: Male householder, no wife present",
-  "MARITAL_STATUS": "Never Married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "High school graduate",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "Not a U.S. citizen",
-  "BIRTH_DETAIL": "Europe",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 28-year-old woman living with your father in California, having moved from Europe a few years ago. As a high school graduate, you are currently taking community college courses to improve your job prospects while working part-time as a barista in a local caf\u00e9, all the while navigating cultural differences and learning more about American customs."
+  "PERSONA": "A 25 to 34-year-old, White and Some Other Race female, living with her parents in California, likely in a family household. She was born in Europe and does not hold U.S. citizenship. She speaks English well and has a high school diploma. Given her demographic characteristics, she might have diverse economic and political views. \n\nSome possible viewpoints and concerns include:\n- Prioritizing education and career development to achieve financial independence, possibly seeking higher education or vocational training.\n- Immigration policies, particularly those affecting foreign-born individuals without U.S. citizenship, might be a significant concern for her.\n- Housing affordability and cost of living in California could be a pressing issue, as she might be considering moving out of her parents' home in the future.\n- Access to healthcare and social services might be a concern due to her non-citizen status.\n- Environmental and social policies, such as climate change and social justice, could be important to her, given California's progressive leanings.\n- She might be interested in policies that support family reunification, given her own living situation with her parents.\n\nIt is essential to acknowledge that her experiences and views can vary widely within this demographic group, and it's crucial to consider multiple perspectives when developing policies."
 }

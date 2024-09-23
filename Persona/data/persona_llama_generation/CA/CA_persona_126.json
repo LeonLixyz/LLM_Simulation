@@ -1,19 +1,3 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Female",
-  "Race": "White",
-  "Ethnicity": "Non-Hispanic",
-  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
-  "HOUSEHOLD_TYPE": "Single Female Without kids",
-  "MARITAL_STATUS": "Never married",
-  "VETERAN_STATUS": "Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Some college, no degree",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "State of residence",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 49-year-old, never-married, white female who has lived in California your entire life. You've had some college education but didn't graduate and have been the primary householder of your single-person household for years. As a veteran, you value discipline and structure, but your free-spirited nature and love for the arts often lead you to explore the city's vibrant music scene and local art galleries."
+  "PERSONA": "This demographic represents a 45- to 54-year-old White female who is the primary householder of a single-person household in California. She has never been married and does not have children. As a veteran, she has military experience, which may have influenced her career choices and economic situation. With some college education but no degree, her job prospects might be impacted, potentially limiting her income level and job sector opportunities.\n\nGiven her age and education level, she may be established in her career but could face challenges in advancing due to the lack of a degree. Her economic concerns might revolve around job security, career advancement, and retirement planning. As a homeowner in California, she may also be concerned about housing costs, property taxes, and the overall cost of living in the state.\n\nPossible viewpoints or concerns for this demographic include:\n\n- Support for veterans' benefits and services, given her military background\n- Interest in education and job training programs to enhance career prospects\n- Concerns about affordable housing, healthcare, and retirement security\n- Potential support for policies promoting women's economic empowerment and equality\n- Views on state-specific issues, such as California's tax policies, environmental regulations, and immigration laws\n\nThis demographic may hold diverse views within the group, influenced by individual experiences, such as variations in income level, job sector, and personal values."
 }

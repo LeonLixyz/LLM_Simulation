@@ -1,10 +1,10 @@
 {
-  "Age": "25 to 34 years",
-  "Sex": "Female",
-  "Race": "Asian",
-  "Ethnicity": "Vietnamese",
-  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
-  "HOUSEHOLD_TYPE": "Married-couple With kids",
+  "AGE": "25 to 34 years",
+  "SEX": "Female",
+  "RACE": "White",
+  "ETHNICITY": "Not Applicable",
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": "Not Applicable",
   "MARITAL_STATUS": "Now married, except separated",
   "VETERAN_STATUS": "Non-Veteran",
   "LANGUAGE": "English only",
@@ -13,6 +13,11 @@
   "BIRTH_PLACE": "US Born",
   "CITIZENSHIP": "US Citizen",
   "BIRTH_DETAIL": "State of residence",
+  "LABOR FORCE STATUS": "In Labor Force",
+  "EMPLOYMENT STATUS": "Employed",
+  "CAREER": "Health diagnosing and treating practitioners and other technical occupations",
+  "INSURANCE_COVERAGE": "Private health insurance",
+  "INCOME_RANGE": "$50,000 to $74,999",
   "STATE_NAME": "Tennessee",
   "STATE_ABBR": "TN"
 }

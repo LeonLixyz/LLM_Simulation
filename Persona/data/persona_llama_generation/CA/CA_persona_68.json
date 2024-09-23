@@ -1,19 +1,3 @@
 {
-  "Age": "60 to 64 years",
-  "Sex": "Male",
-  "Race": "Asian",
-  "Ethnicity": "Other Asian",
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": "Multigenerational household",
-  "MARITAL_STATUS": "Separated",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "English only",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Bachelor's degree",
-  "BIRTH_PLACE": "Foreign Born",
-  "CITIZENSHIP": "Not a U.S. citizen",
-  "BIRTH_DETAIL": "Latin America",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 62-year-old Asian male, born in Latin America, who now resides in a multigenerational household in California with your elderly parents. Having earned a Bachelor's degree, you have a strong educational foundation, but life took an unexpected turn when your marriage ended in separation. You've adapted to speaking English well, but the cultural nuances of your Latin American upbringing still shape your perspective, and as a non-U.S. citizen, you continue to navigate the complexities of your adopted country."
+  "PERSONA": "This persona is a 60- to 64-year-old male of Asian descent, likely from Latin America, who resides in a multi-generational household in California. He holds a bachelor's degree and has a good command of English. Given his age and education level, he may be semi-retired or nearing retirement. His marital status as separated might indicate financial and emotional responsibilities, such as alimony or child support. As a non-U.S. citizen, he may face unique economic and social challenges, including limited access to certain government programs and potential difficulties with employment.\n\nEconomic concerns for this demographic might include:\n\n- Financial security in retirement, potentially complicated by his immigration status and limited access to social security benefits.\n- Healthcare costs, as he navigates the U.S. healthcare system as a non-citizen.\n- Balancing financial responsibilities, such as supporting family members, with his own economic well-being.\n- Potential language barriers or cultural differences that could impact his ability to fully engage with the economy.\n\nPossible viewpoints or concerns:\n\n- Prioritizing affordable healthcare and financial security in retirement.\n- Seeking pathways to U.S. citizenship to access more economic opportunities and social benefits.\n- Advocating for policies that support immigrant families and their economic integration.\n- Focusing on education and job training programs that cater to older adults and immigrants."
 }

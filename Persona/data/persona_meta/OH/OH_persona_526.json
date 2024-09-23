@@ -1,10 +1,10 @@
 {
-  "Age": "45 to 54 years",
-  "Sex": "Female",
-  "Race": "White",
-  "Ethnicity": null,
-  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
-  "HOUSEHOLD_TYPE": null,
+  "AGE": "65 to 74 years",
+  "SEX": "Male",
+  "RACE": "White and American Indian and Alaska Native",
+  "ETHNICITY": "None",
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": "Not Applicable",
   "MARITAL_STATUS": "Never married",
   "VETERAN_STATUS": "Non-Veteran",
   "LANGUAGE": "English only",
@@ -13,6 +13,11 @@
   "BIRTH_PLACE": "US Born",
   "CITIZENSHIP": "US Citizen",
   "BIRTH_DETAIL": "State of residence",
+  "LABOR FORCE STATUS": "In Labor Force",
+  "EMPLOYMENT STATUS": "Employed",
+  "CAREER": "Transportation occupations",
+  "INSURANCE_COVERAGE": "Public coverage",
+  "INCOME_RANGE": "$50,000 to $74,999",
   "STATE_NAME": "Ohio",
   "STATE_ABBR": "OH"
 }

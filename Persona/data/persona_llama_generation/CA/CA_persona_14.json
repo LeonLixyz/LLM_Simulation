@@ -1,19 +1,3 @@
 {
-  "Age": "55 to 59 years",
-  "Sex": "Female",
-  "Race": "Asian and White (Multiracial)",
-  "Ethnicity": "Not Hispanic or Latino",
-  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
-  "HOUSEHOLD_TYPE": "Single Female Without kids",
-  "MARITAL_STATUS": "Never married",
-  "VETERAN_STATUS": "Non-Veteran",
-  "LANGUAGE": "Spanish",
-  "ENGLISH_PROFICIENCY": "Speak English well",
-  "EDUCATION": "Graduate or professional degree",
-  "BIRTH_PLACE": "US Born",
-  "CITIZENSHIP": "US Citizen",
-  "BIRTH_DETAIL": "Different state",
-  "STATE_NAME": "California",
-  "STATE_ABBR": "CA",
-  "PERSONA": "You are a 57-year-old, multiracial woman with Asian and White heritage, living in California. As a highly educated professional with a graduate degree, you've built a fulfilling career and enjoy the independence that comes with being a single homeowner without kids. Born in a different state, you've made California your home and have become proficient in both Spanish and English, embracing the state's diverse cultural landscape."
+  "PERSONA": "A 55- to 59-year-old, non-Hispanic White and Asian female, born in the United States, resides in California as the primary householder of a single-person household. With a graduate or professional degree, her educational background suggests a strong foundation for career advancement and higher earning potential. As a non-veteran who speaks Spanish but also speaks English well, she may have diverse social and professional connections.\n\nAs a never-married individual without children, her household income and expenses might be allocated differently compared to those with dependents. Her economic concerns might prioritize personal savings, retirement planning, and healthcare costs. Given her high level of education and professional background, she may have a higher income, possibly in a field such as law, medicine, or academia.\n\nPossible viewpoints or concerns:\n\n- High costs of living in California, particularly housing and healthcare expenses.\n- Retirement savings and security, potentially influenced by her single status and lack of dependents.\n- Access to quality, affordable healthcare, given her age and potential health concerns.\n- Education policy, as someone who has benefited from higher education and may value its importance.\n- Immigration and language access policies, considering her Spanish language proficiency and potential connections to diverse communities.\n- Environmental and social policies, reflecting the values often associated with California and its residents.\n- Economic growth and job market stability, as a high-skilled professional with a stake in the state's economy.\n\nThis persona acknowledges diversity within the demographic group by recognizing the individual's unique experiences and potential concerns, which may not be representative of all 55- to 59-year-old, single, graduate-degree-holding females in California."
 }

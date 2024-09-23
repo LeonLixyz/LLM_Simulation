@@ -1,0 +1,18 @@
+{
+  "Age": "35 to 44 years",
+  "Sex": "Female",
+  "Race": "Hispanic",
+  "Ethnicity": "Other Hispanic or Latino",
+  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
+  "HOUSEHOLD_TYPE": "Single Female With kids",
+  "MARITAL_STATUS": "Now married, except separated",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Graduate or professional degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "New York",
+  "STATE_ABBR": "NY"
+}

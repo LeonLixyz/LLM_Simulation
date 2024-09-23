@@ -1,0 +1,18 @@
+{
+  "Age": "45 to 54 years",
+  "Sex": "Female",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
+  "HOUSEHOLD_TYPE": "Married-couple With kids",
+  "MARITAL_STATUS": "Now married, except separated",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "9th to 12th grade, no diploma",
+  "BIRTH_PLACE": "Foreign Born",
+  "CITIZENSHIP": "Not a U.S. citizen",
+  "BIRTH_DETAIL": "Latin America",
+  "STATE_NAME": "Delaware",
+  "STATE_ABBR": "DE"
+}

@@ -1,0 +1,18 @@
+{
+  "Age": "60 to 64 years",
+  "Sex": "Female",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Never married",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Some college, no degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "South Dakota",
+  "STATE_ABBR": "SD"
+}

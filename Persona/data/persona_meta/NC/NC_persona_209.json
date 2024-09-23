@@ -1,0 +1,18 @@
+{
+  "Age": "65 to 74 years",
+  "Sex": "Male",
+  "Race": "White and Black or African American",
+  "Ethnicity": "None",
+  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
+  "HOUSEHOLD_TYPE": "Cohabiting couple Without kids",
+  "MARITAL_STATUS": "Never married",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "High school graduate",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "North Carolina",
+  "STATE_ABBR": "NC"
+}

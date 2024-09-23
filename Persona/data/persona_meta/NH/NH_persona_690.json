@@ -1,0 +1,18 @@
+{
+  "Age": "18 to 19 years",
+  "Sex": "Female",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Other Relative of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Divorced",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Associate's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "Different state",
+  "STATE_NAME": "New Hampshire",
+  "STATE_ABBR": "NH"
+}

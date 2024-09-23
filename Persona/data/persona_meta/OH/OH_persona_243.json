@@ -1,0 +1,18 @@
+{
+  "Age": "25 to 34 years",
+  "Sex": "Female",
+  "Race": "Hispanic",
+  "Ethnicity": "Other Hispanic or Latino",
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Widowed",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "High school graduate",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Ohio",
+  "STATE_ABBR": "OH"
+}

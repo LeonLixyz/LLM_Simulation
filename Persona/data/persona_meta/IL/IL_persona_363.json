@@ -1,0 +1,18 @@
+{
+  "Age": "60 to 64 years",
+  "Sex": "Female",
+  "Race": "Some Other Race",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
+  "HOUSEHOLD_TYPE": "Married-couple Without kids",
+  "MARITAL_STATUS": "Now married, except separated",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "High school graduate",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Illinois",
+  "STATE_ABBR": "IL"
+}

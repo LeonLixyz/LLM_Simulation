@@ -1,0 +1,18 @@
+{
+  "Age": "20 to 24 years",
+  "Sex": "Female",
+  "Race": "Native Hawaiian and Other Pacific Islander",
+  "Ethnicity": "Native Hawaiian",
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Divorced",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Bachelor's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Hawaii",
+  "STATE_ABBR": "HI"
+}

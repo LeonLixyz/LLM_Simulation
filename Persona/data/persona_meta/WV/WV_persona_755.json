@@ -1,0 +1,18 @@
+{
+  "Age": "20 to 24 years",
+  "Sex": "Female",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Widowed",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Associate's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "West Virginia",
+  "STATE_ABBR": "WV"
+}

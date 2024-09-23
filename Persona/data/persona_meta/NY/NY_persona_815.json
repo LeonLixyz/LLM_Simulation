@@ -1,0 +1,18 @@
+{
+  "Age": "55 to 59 years",
+  "Sex": "Female",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Other Relative of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Never married",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "Spanish",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "High school graduate",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "New York",
+  "STATE_ABBR": "NY"
+}

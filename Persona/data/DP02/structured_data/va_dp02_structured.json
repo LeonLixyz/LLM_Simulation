@@ -1,0 +1,258 @@
+{
+  "HOUSEHOLDS BY TYPE": {
+    "Total households": 3402670,
+    "Family households": {
+      "Married-couple": {
+        "count": 1665817,
+        "percentage": 49.0,
+        "With children under 18": {
+          "count": 637827,
+          "percentage": 18.7
+        }
+      },
+      "Cohabiting couple": {
+        "count": 216907,
+        "percentage": 6.4,
+        "With children under 18": {
+          "count": 67261,
+          "percentage": 2.0
+        }
+      }
+    },
+    "Nonfamily households": {
+      "Male householder": {
+        "count": 589404,
+        "percentage": 17.3,
+        "With children under 18": {
+          "count": 42623,
+          "percentage": 1.3
+        }
+      },
+      "Female householder": {
+        "count": 930542,
+        "percentage": 27.3,
+        "With children under 18": {
+          "count": 161446,
+          "percentage": 4.7
+        }
+      }
+    },
+    "Households with children under 18": {
+      "count": 1015686,
+      "percentage": 29.8
+    },
+    "Households with adults 65 and over": {
+      "count": 1064564,
+      "percentage": 31.3
+    },
+    "Average household size": 2.49,
+    "Average family size": 3.07
+  },
+  "RELATIONSHIP": {
+    "Total": 8479742,
+    "Householder": {
+      "count": 3402670,
+      "percentage": 40.1
+    },
+    "Spouse": {
+      "count": 1661273,
+      "percentage": 19.6
+    },
+    "Unmarried partner": {
+      "count": 221413,
+      "percentage": 2.6
+    },
+    "Child": {
+      "count": 2393624,
+      "percentage": 28.2
+    },
+    "Other relatives": {
+      "count": 544772,
+      "percentage": 6.4
+    },
+    "Other nonrelatives": {
+      "count": 255990,
+      "percentage": 3.0
+    }
+  },
+  "MARITAL STATUS": {
+    "Males": {
+      "Total": 3517955,
+      "Never married": {
+        "count": 1254504,
+        "percentage": 35.7
+      },
+      "Now married, except separated": {
+        "count": 1823011,
+        "percentage": 51.8
+      },
+      "Separated": {
+        "count": 60042,
+        "percentage": 1.7
+      },
+      "Widowed": {
+        "count": 88963,
+        "percentage": 2.5
+      },
+      "Divorced": {
+        "count": 291435,
+        "percentage": 8.3
+      }
+    },
+    "Females": {
+      "Total": 3662168,
+      "Never married": {
+        "count": 1123861,
+        "percentage": 30.7
+      },
+      "Now married, except separated": {
+        "count": 1759532,
+        "percentage": 48.0
+      },
+      "Separated": {
+        "count": 73024,
+        "percentage": 2.0
+      },
+      "Widowed": {
+        "count": 288387,
+        "percentage": 7.9
+      },
+      "Divorced": {
+        "count": 417364,
+        "percentage": 11.4
+      }
+    }
+  },
+  "EDUCATIONAL ATTAINMENT": {
+    "Total": 6037339,
+    "Less than 9th grade": {
+      "count": 213181,
+      "percentage": 3.5
+    },
+    "9th to 12th grade, no diploma": {
+      "count": 303286,
+      "percentage": 5.0
+    },
+    "High school graduate": {
+      "count": 1452078,
+      "percentage": 24.1
+    },
+    "Some college, no degree": {
+      "count": 1044919,
+      "percentage": 17.3
+    },
+    "Associate's degree": {
+      "count": 462513,
+      "percentage": 7.7
+    },
+    "Bachelor's degree": {
+      "count": 1446760,
+      "percentage": 24.0
+    },
+    "Graduate or professional degree": {
+      "count": 1114602,
+      "percentage": 18.5
+    }
+  },
+  "LANGUAGE SPOKEN AT HOME": {
+    "Total": 8238954,
+    "English only": {
+      "count": 6769936,
+      "percentage": 82.2
+    },
+    "Spanish": {
+      "count": 666376,
+      "percentage": 8.1,
+      "Speak English less than very well": {
+        "count": 269562,
+        "percentage": 3.3
+      }
+    },
+    "Other Indo-European languages": {
+      "count": 341984,
+      "percentage": 4.2,
+      "Speak English less than very well": {
+        "count": 87019,
+        "percentage": 1.1
+      }
+    },
+    "Asian and Pacific Islander languages": {
+      "count": 307538,
+      "percentage": 3.7,
+      "Speak English less than very well": {
+        "count": 118580,
+        "percentage": 1.4
+      }
+    },
+    "Other languages": {
+      "count": 153120,
+      "percentage": 1.9,
+      "Speak English less than very well": {
+        "count": 44434,
+        "percentage": 0.5
+      }
+    }
+  },
+  "VETERAN STATUS": {
+    "Total": 6714203,
+    "Veteran": {
+      "count": 612622,
+      "percentage": 9.1
+    }
+  },
+  "PLACE OF BIRTH": {
+    "Total": 8715698,
+    "Native": {
+      "count": 7552212,
+      "percentage": 86.7,
+      "State of residence": {
+        "count": 4238322,
+        "percentage": 48.6
+      },
+      "Different state": {
+        "count": 3134498,
+        "percentage": 36.0
+      },
+      "Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)   ": {
+        "count": 179392,
+        "percentage": 2.1
+      }
+    },
+    "Foreign born": {
+      "count": 1163486,
+      "percentage": 13.3,
+      "US Citizen": {
+        "count": 662372,
+        "percentage": 56.9
+      },
+      "Not a U.S. citizen": {
+        "count": 501114,
+        "percentage": 43.1
+      },
+      "Europe": {
+        "count": 105115,
+        "percentage": 9.0
+      },
+      "Asia": {
+        "count": 485326,
+        "percentage": 41.7
+      },
+      "Africa": {
+        "count": 131950,
+        "percentage": 11.3
+      },
+      "Oceania": {
+        "count": 2517,
+        "percentage": 0.2
+      },
+      "Latin America": {
+        "count": 423695,
+        "percentage": 36.4
+      },
+      "Northern America": {
+        "count": 14883,
+        "percentage": 1.3
+      }
+    }
+  }
+}

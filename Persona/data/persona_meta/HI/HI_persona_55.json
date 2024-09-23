@@ -1,0 +1,18 @@
+{
+  "Age": "20 to 24 years",
+  "Sex": "Female",
+  "Race": "Hispanic",
+  "Ethnicity": "Mexican",
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Never married",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "Asian and Pacific Islander languages",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Associate's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "Different state",
+  "STATE_NAME": "Hawaii",
+  "STATE_ABBR": "HI"
+}

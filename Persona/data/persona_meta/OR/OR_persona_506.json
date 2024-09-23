@@ -1,0 +1,18 @@
+{
+  "Age": "25 to 34 years",
+  "Sex": "Male",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
+  "HOUSEHOLD_TYPE": "Single Male Without kids",
+  "MARITAL_STATUS": "Now married, except separated",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "Other languages",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Bachelor's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Oregon",
+  "STATE_ABBR": "OR"
+}

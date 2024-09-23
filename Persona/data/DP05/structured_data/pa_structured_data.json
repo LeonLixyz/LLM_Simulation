@@ -1,0 +1,224 @@
+{
+  "SEX AND AGE": {
+    "Total population": 12961683,
+    "Age Groups": {
+      "18 to 19 years": {
+        "count": 367113,
+        "percentage": 2.83
+      },
+      "20 to 24 years": {
+        "count": 798935,
+        "percentage": 7.73
+      },
+      "25 to 34 years": {
+        "count": 1651405,
+        "percentage": 15.98
+      },
+      "35 to 44 years": {
+        "count": 1660159,
+        "percentage": 16.06
+      },
+      "45 to 54 years": {
+        "count": 1524092,
+        "percentage": 14.74
+      },
+      "55 to 59 years": {
+        "count": 835881,
+        "percentage": 8.09
+      },
+      "60 to 64 years": {
+        "count": 901515,
+        "percentage": 8.72
+      },
+      "65 to 74 years": {
+        "count": 1510584,
+        "percentage": 14.61
+      },
+      "75 to 84 years": {
+        "count": 789048,
+        "percentage": 7.63
+      },
+      "85 years and over": {
+        "count": 298322,
+        "percentage": 2.89
+      }
+    },
+    "18 years and over": {
+      "count": 10337054,
+      "percentage": 100.0
+    },
+    "18 years and over Male": {
+      "count": 5042655,
+      "percentage": 48.78
+    },
+    "18 years and over Female": {
+      "count": 5294399,
+      "percentage": 51.22
+    },
+    "Median age (years)": 41.1
+  },
+  "RACE": {
+    "Total population": 12961683,
+    "Two or More Races": {
+      "count": 954515,
+      "percentage": 7.36,
+      "Combinations": {
+        "White and Black or African American": {
+          "count": 165320,
+          "percentage": 17.32
+        },
+        "White and American Indian and Alaska Native": {
+          "count": 72517,
+          "percentage": 7.6
+        },
+        "White and Asian": {
+          "count": 81968,
+          "percentage": 8.59
+        },
+        "White and Some Other Race": {
+          "count": 443013,
+          "percentage": 46.41
+        },
+        "Black or African American and American Indian and Alaska Native": {
+          "count": 17776,
+          "percentage": 1.86
+        },
+        "Black or African American and Some Other Race": {
+          "count": 57621,
+          "percentage": 6.04
+        }
+      }
+    },
+    "White": {
+      "count": 9594136,
+      "percentage": 74.02
+    },
+    "Black or African American": {
+      "count": 1368208,
+      "percentage": 10.56
+    },
+    "American Indian and Alaska Native": {
+      "count": 30714,
+      "percentage": 0.24,
+      "Ethnicities": {
+        "Aztec": {
+          "count": 4380,
+          "percentage": 14.26
+        },
+        "Blackfeet Tribe of the Blackfeet Indian Reservation of Montana": {
+          "count": 376,
+          "percentage": 1.22
+        },
+        "Maya": {
+          "count": 2686,
+          "percentage": 8.75
+        },
+        "Native Village of Barrow Inupiat Traditional Government": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Navajo Nation": {
+          "count": 192,
+          "percentage": 0.63
+        },
+        "Nome Eskimo Community": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "Other American Indian and Alaska Native": {
+          "count": 23080,
+          "percentage": 75.14
+        }
+      }
+    },
+    "Asian": {
+      "count": 499380,
+      "percentage": 3.85,
+      "Ethnicities": {
+        "Asian Indian": {
+          "count": 163718,
+          "percentage": 32.78
+        },
+        "Chinese": {
+          "count": 122755,
+          "percentage": 24.58
+        },
+        "Filipino": {
+          "count": 30984,
+          "percentage": 6.2
+        },
+        "Japanese": {
+          "count": 6519,
+          "percentage": 1.31
+        },
+        "Korean": {
+          "count": 36974,
+          "percentage": 7.4
+        },
+        "Vietnamese": {
+          "count": 38953,
+          "percentage": 7.8
+        },
+        "Other Asian": {
+          "count": 99477,
+          "percentage": 19.92
+        }
+      }
+    },
+    "Native Hawaiian and Other Pacific Islander": {
+      "count": 4170,
+      "percentage": 0.03,
+      "Ethnicities": {
+        "Native Hawaiian": {
+          "count": 2878,
+          "percentage": 69.02
+        },
+        "Chamorro": {
+          "count": 313,
+          "percentage": 7.51
+        },
+        "Samoan": {
+          "count": 409,
+          "percentage": 9.81
+        },
+        "Other Native Hawaiian and Other Pacific Islander": {
+          "count": 570,
+          "percentage": 13.67
+        }
+      }
+    },
+    "Some Other Race": {
+      "count": 510560,
+      "percentage": 3.94
+    }
+  },
+  "HISPANIC OR LATINO AND RACE": {
+    "Total population": 12961683,
+    "Hispanic or Latino (of any race)": {
+      "count": 1151760,
+      "percentage": 8.89
+    },
+    "Not Hispanic or Latino": {
+      "count": 11809923,
+      "percentage": 91.11
+    },
+    "Hispanic or Latino": {
+      "Mexican": {
+        "count": 192500,
+        "percentage": 16.71
+      },
+      "Puerto Rican": {
+        "count": 472672,
+        "percentage": 41.04
+      },
+      "Cuban": {
+        "count": 22837,
+        "percentage": 1.98
+      },
+      "Other Hispanic or Latino": {
+        "count": 463751,
+        "percentage": 40.26
+      }
+    }
+  }
+}

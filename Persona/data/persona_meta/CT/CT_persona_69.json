@@ -1,0 +1,18 @@
+{
+  "Age": "35 to 44 years",
+  "Sex": "Male",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
+  "HOUSEHOLD_TYPE": "Single Male Without kids",
+  "MARITAL_STATUS": "Widowed",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Bachelor's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "Different state",
+  "STATE_NAME": "Connecticut",
+  "STATE_ABBR": "CT"
+}

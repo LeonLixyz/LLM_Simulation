@@ -1,0 +1,18 @@
+{
+  "Age": "55 to 59 years",
+  "Sex": "Male",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Divorced",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Less than 9th grade",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Pennsylvania",
+  "STATE_ABBR": "PA"
+}

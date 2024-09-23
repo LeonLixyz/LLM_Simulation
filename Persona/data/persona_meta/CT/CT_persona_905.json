@@ -1,0 +1,18 @@
+{
+  "Age": "60 to 64 years",
+  "Sex": "Male",
+  "Race": "Hispanic",
+  "Ethnicity": "Other Hispanic or Latino",
+  "HOUSEHOLD_RELATIONSHIP": "Other Relative of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Divorced",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Bachelor's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Connecticut",
+  "STATE_ABBR": "CT"
+}

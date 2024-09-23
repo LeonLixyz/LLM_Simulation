@@ -1,0 +1,309 @@
+Label,Value
+Estimate!!HOUSEHOLDS BY TYPE!!Total households,813864
+Percent!!HOUSEHOLDS BY TYPE!!Total households,813864
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple household,398895
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple household,49.0
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple household!!With children of the householder under 18 years,159694
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple household!!With children of the householder under 18 years,19.6
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Cohabiting couple household,58133
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Cohabiting couple household,7.1
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Cohabiting couple household!!With children of the householder under 18 years,19715
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Cohabiting couple household!!With children of the householder under 18 years,2.4
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present",156096
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present",19.2
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present!!With children of the householder under 18 years",10102
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present!!With children of the householder under 18 years",1.2
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present!!Householder living alone",119382
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present!!Householder living alone",14.7
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present!!Householder living alone!!65 years and over",32801
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present!!Householder living alone!!65 years and over",4.0
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present",200740
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present",24.7
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present!!With children of the householder under 18 years",34142
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present!!With children of the householder under 18 years",4.2
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present!!Householder living alone",126980
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present!!Householder living alone",15.6
+"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present!!Householder living alone!!65 years and over",61266
+"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present!!Householder living alone!!65 years and over",7.5
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,239670
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,29.4
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,238901
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,29.4
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,2.37
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,-888888888
+Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,2.98
+Percent!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,-888888888
+Estimate!!RELATIONSHIP!!Population in households,1930900
+Percent!!RELATIONSHIP!!Population in households,1930900
+Estimate!!RELATIONSHIP!!Population in households!!Householder,813864
+Percent!!RELATIONSHIP!!Population in households!!Householder,42.1
+Estimate!!RELATIONSHIP!!Population in households!!Spouse,396741
+Percent!!RELATIONSHIP!!Population in households!!Spouse,20.5
+Estimate!!RELATIONSHIP!!Population in households!!Unmarried partner,60307
+Percent!!RELATIONSHIP!!Population in households!!Unmarried partner,3.1
+Estimate!!RELATIONSHIP!!Population in households!!Child,545374
+Percent!!RELATIONSHIP!!Population in households!!Child,28.2
+Estimate!!RELATIONSHIP!!Population in households!!Other relatives,64955
+Percent!!RELATIONSHIP!!Population in households!!Other relatives,3.4
+Estimate!!RELATIONSHIP!!Population in households!!Other nonrelatives,49659
+Percent!!RELATIONSHIP!!Population in households!!Other nonrelatives,2.6
+Estimate!!MARITAL STATUS!!Males 15 years and over,791313
+Percent!!MARITAL STATUS!!Males 15 years and over,791313
+Estimate!!MARITAL STATUS!!Males 15 years and over!!Never married,274927
+Percent!!MARITAL STATUS!!Males 15 years and over!!Never married,34.7
+"Estimate!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated",419609
+"Percent!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated",53.0
+Estimate!!MARITAL STATUS!!Males 15 years and over!!Separated,8767
+Percent!!MARITAL STATUS!!Males 15 years and over!!Separated,1.1
+Estimate!!MARITAL STATUS!!Males 15 years and over!!Widowed,20539
+Percent!!MARITAL STATUS!!Males 15 years and over!!Widowed,2.6
+Estimate!!MARITAL STATUS!!Males 15 years and over!!Divorced,67471
+Percent!!MARITAL STATUS!!Males 15 years and over!!Divorced,8.5
+Estimate!!MARITAL STATUS!!Females 15 years and over,794987
+Percent!!MARITAL STATUS!!Females 15 years and over,794987
+Estimate!!MARITAL STATUS!!Females 15 years and over!!Never married,224012
+Percent!!MARITAL STATUS!!Females 15 years and over!!Never married,28.2
+"Estimate!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated",409746
+"Percent!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated",51.5
+Estimate!!MARITAL STATUS!!Females 15 years and over!!Separated,10598
+Percent!!MARITAL STATUS!!Females 15 years and over!!Separated,1.3
+Estimate!!MARITAL STATUS!!Females 15 years and over!!Widowed,58889
+Percent!!MARITAL STATUS!!Females 15 years and over!!Widowed,7.4
+Estimate!!MARITAL STATUS!!Females 15 years and over!!Divorced,91742
+Percent!!MARITAL STATUS!!Females 15 years and over!!Divorced,11.5
+Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months,24344
+Percent!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months,24344
+"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)",7175
+"Percent!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)",29.5
+"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)!!Per 1,000 unmarried women",30
+"Percent!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)!!Per 1,000 unmarried women",-888888888
+"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 50 years old",54
+"Percent!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 50 years old",-888888888
+"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 19 years old",5
+"Percent!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 19 years old",-888888888
+"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 20 to 34 years old",98
+"Percent!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 20 to 34 years old",-888888888
+"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 35 to 50 years old",27
+"Percent!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 35 to 50 years old",-888888888
+Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years,23081
+Percent!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years,23081
+Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Grandparents responsible for grandchildren,8832
+Percent!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Grandparents responsible for grandchildren,38.3
+Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!Less than 1 year,2798
+Percent!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!Less than 1 year,12.1
+Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!1 or 2 years,1246
+Percent!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!1 or 2 years,5.4
+Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!3 or 4 years,969
+Percent!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!3 or 4 years,4.2
+Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!5 or more years,3819
+Percent!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!5 or more years,16.5
+Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years,8832
+Percent!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years,8832
+Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are female,5080
+Percent!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are female,57.5
+Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are married,6657
+Percent!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are married,75.4
+Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,514983
+Percent!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,514983
+"Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",32899
+"Percent!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool",6.4
+Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,22969
+Percent!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten,4.5
+Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),219849
+Percent!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8),42.7
+Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),112676
+Percent!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12),21.9
+Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,126590
+Percent!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school,24.6
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,1307246
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,1307246
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,48270
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,3.7
+"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",47800
+"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",3.7
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),324140
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),24.8
+"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",276934
+"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",21.2
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,148822
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,11.4
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,298782
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,22.9
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,162498
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,12.4
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,1211176
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,92.7
+Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,461280
+Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,35.3
+Estimate!!VETERAN STATUS!!Civilian population 18 years and over,1494050
+Percent!!VETERAN STATUS!!Civilian population 18 years and over,1494050
+Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veterans,98571
+Percent!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veterans,6.6
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population,1951731
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population,1951731
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population!!With a disability,247346
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population!!With a disability,12.7
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years,477969
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years,477969
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years!!With a disability,17525
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years!!With a disability,3.7
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years,1143935
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years,1143935
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years!!With a disability,129482
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years!!With a disability,11.3
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over,329827
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over,329827
+Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over!!With a disability,100339
+Percent!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over!!With a disability,30.4
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,1956041
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,1956041
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,1700851
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house,87.0
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad),255190
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad),13.0
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.,242283
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.,12.4
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Same county,130523
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Same county,6.7
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Different county,111760
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Different county,5.7
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Different county!!Same state,63170
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Different county!!Same state,3.2
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Different county!!Different state,48590
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Different house in the U.S.!!Different county!!Different state,2.5
+Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Abroad,12907
+Percent!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house (in the U.S. or abroad)!!Abroad,0.7
+Estimate!!PLACE OF BIRTH!!Total population,1978379
+Percent!!PLACE OF BIRTH!!Total population,1978379
+Estimate!!PLACE OF BIRTH!!Total population!!Native,1826038
+Percent!!PLACE OF BIRTH!!Total population!!Native,92.3
+Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States,1805780
+Percent!!PLACE OF BIRTH!!Total population!!Native!!Born in United States,91.3
+Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!State of residence,1263492
+Percent!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!State of residence,63.9
+Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!Different state,542288
+Percent!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!Different state,27.4
+"Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",20258
+"Percent!!PLACE OF BIRTH!!Total population!!Native!!Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",1.0
+Estimate!!PLACE OF BIRTH!!Total population!!Foreign-born,152341
+Percent!!PLACE OF BIRTH!!Total population!!Foreign-born,7.7
+Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population,152341
+Percent!!U.S. CITIZENSHIP STATUS!!Foreign-born population,152341
+Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Naturalized U.S. citizen,63685
+Percent!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Naturalized U.S. citizen,41.8
+Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Not a U.S. citizen,88656
+Percent!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Not a U.S. citizen,58.2
+Estimate!!YEAR OF ENTRY!!Population born outside the United States,172599
+Percent!!YEAR OF ENTRY!!Population born outside the United States,172599
+Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native,20258
+Percent!!YEAR OF ENTRY!!Population born outside the United States!!Native,20258
+Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered 2010 or later,7578
+Percent!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered 2010 or later,37.4
+Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered before 2010,12680
+Percent!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered before 2010,62.6
+Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign-born,152341
+Percent!!YEAR OF ENTRY!!Population born outside the United States!!Foreign-born,152341
+Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign-born!!Entered 2010 or later,69041
+Percent!!YEAR OF ENTRY!!Population born outside the United States!!Foreign-born!!Entered 2010 or later,45.3
+Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign-born!!Entered before 2010,83300
+Percent!!YEAR OF ENTRY!!Population born outside the United States!!Foreign-born!!Entered before 2010,54.7
+"Estimate!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea",152341
+"Percent!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea",152341
+"Estimate!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Europe",9936
+"Percent!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Europe",6.5
+"Estimate!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Asia",41625
+"Percent!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Asia",27.3
+"Estimate!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Africa",15241
+"Percent!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Africa",10.0
+"Estimate!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Oceania",130
+"Percent!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Oceania",0.1
+"Estimate!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Latin America",83712
+"Percent!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Latin America",55.0
+"Estimate!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Northern America",1697
+"Percent!!WORLD REGION OF BIRTH OF FOREIGN-BORN!!Foreign-born population, excluding population born at sea!!Northern America",1.1
+Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over,1857880
+Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over,1857880
+Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!English only,1626489
+Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!English only,87.5
+Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English,231391
+Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English,12.5
+"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",94109
+"Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English!!Speak English less than ""very well""",5.1
+Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish,157012
+Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish,8.5
+"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish!!Speak English less than ""very well""",66332
+"Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish!!Speak English less than ""very well""",3.6
+Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages,28130
+Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages,1.5
+"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages!!Speak English less than ""very well""",7875
+"Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages!!Speak English less than ""very well""",0.4
+Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages,31260
+Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages,1.7
+"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages!!Speak English less than ""very well""",13607
+"Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages!!Speak English less than ""very well""",0.7
+Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages,14989
+Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages,0.8
+"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages!!Speak English less than ""very well""",6295
+"Percent!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages!!Speak English less than ""very well""",0.3
+Estimate!!ANCESTRY!!Total population,1978379
+Percent!!ANCESTRY!!Total population,1978379
+Estimate!!ANCESTRY!!Total population!!American,75417
+Percent!!ANCESTRY!!Total population!!American,3.8
+Estimate!!ANCESTRY!!Total population!!Arab,9332
+Percent!!ANCESTRY!!Total population!!Arab,0.5
+Estimate!!ANCESTRY!!Total population!!Czech,65869
+Percent!!ANCESTRY!!Total population!!Czech,3.3
+Estimate!!ANCESTRY!!Total population!!Danish,28970
+Percent!!ANCESTRY!!Total population!!Danish,1.5
+Estimate!!ANCESTRY!!Total population!!Dutch,25423
+Percent!!ANCESTRY!!Total population!!Dutch,1.3
+Estimate!!ANCESTRY!!Total population!!English,182475
+Percent!!ANCESTRY!!Total population!!English,9.2
+Estimate!!ANCESTRY!!Total population!!French (except Basque),33618
+Percent!!ANCESTRY!!Total population!!French (except Basque),1.7
+Estimate!!ANCESTRY!!Total population!!French Canadian,4407
+Percent!!ANCESTRY!!Total population!!French Canadian,0.2
+Estimate!!ANCESTRY!!Total population!!German,601631
+Percent!!ANCESTRY!!Total population!!German,30.4
+Estimate!!ANCESTRY!!Total population!!Greek,3521
+Percent!!ANCESTRY!!Total population!!Greek,0.2
+Estimate!!ANCESTRY!!Total population!!Hungarian,1971
+Percent!!ANCESTRY!!Total population!!Hungarian,0.1
+Estimate!!ANCESTRY!!Total population!!Irish,222391
+Percent!!ANCESTRY!!Total population!!Irish,11.2
+Estimate!!ANCESTRY!!Total population!!Italian,49325
+Percent!!ANCESTRY!!Total population!!Italian,2.5
+Estimate!!ANCESTRY!!Total population!!Lithuanian,2553
+Percent!!ANCESTRY!!Total population!!Lithuanian,0.1
+Estimate!!ANCESTRY!!Total population!!Norwegian,31011
+Percent!!ANCESTRY!!Total population!!Norwegian,1.6
+Estimate!!ANCESTRY!!Total population!!Polish,56696
+Percent!!ANCESTRY!!Total population!!Polish,2.9
+Estimate!!ANCESTRY!!Total population!!Portuguese,1817
+Percent!!ANCESTRY!!Total population!!Portuguese,0.1
+Estimate!!ANCESTRY!!Total population!!Russian,8520
+Percent!!ANCESTRY!!Total population!!Russian,0.4
+Estimate!!ANCESTRY!!Total population!!Scotch-Irish,14617
+Percent!!ANCESTRY!!Total population!!Scotch-Irish,0.7
+Estimate!!ANCESTRY!!Total population!!Scottish,29834
+Percent!!ANCESTRY!!Total population!!Scottish,1.5
+Estimate!!ANCESTRY!!Total population!!Slovak,486
+Percent!!ANCESTRY!!Total population!!Slovak,0.0
+Estimate!!ANCESTRY!!Total population!!Subsaharan African,17271
+Percent!!ANCESTRY!!Total population!!Subsaharan African,0.9
+Estimate!!ANCESTRY!!Total population!!Swedish,61122
+Percent!!ANCESTRY!!Total population!!Swedish,3.1
+Estimate!!ANCESTRY!!Total population!!Swiss,5588
+Percent!!ANCESTRY!!Total population!!Swiss,0.3
+Estimate!!ANCESTRY!!Total population!!Ukrainian,3172
+Percent!!ANCESTRY!!Total population!!Ukrainian,0.2
+Estimate!!ANCESTRY!!Total population!!Welsh,7089
+Percent!!ANCESTRY!!Total population!!Welsh,0.4
+Estimate!!ANCESTRY!!Total population!!West Indian (excluding Hispanic origin groups),1346
+Percent!!ANCESTRY!!Total population!!West Indian (excluding Hispanic origin groups),0.1
+Estimate!!COMPUTERS AND INTERNET USE!!Total households,813864
+Percent!!COMPUTERS AND INTERNET USE!!Total households,813864
+Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,782030
+Percent!!COMPUTERS AND INTERNET USE!!Total households!!With a computer,96.1
+Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,749335
+Percent!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription,92.1

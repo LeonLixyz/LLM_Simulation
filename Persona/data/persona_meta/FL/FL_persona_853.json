@@ -1,0 +1,18 @@
+{
+  "Age": "65 to 74 years",
+  "Sex": "Female",
+  "Race": "White and Black or African American",
+  "Ethnicity": "None",
+  "HOUSEHOLD_RELATIONSHIP": "Child living with Parents",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Never married",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "Spanish",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Associate's degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Florida",
+  "STATE_ABBR": "FL"
+}

@@ -1,0 +1,18 @@
+{
+  "Age": "25 to 34 years",
+  "Sex": "Female",
+  "Race": "White and Black or African American",
+  "Ethnicity": "None",
+  "HOUSEHOLD_RELATIONSHIP": "Primary Householder",
+  "HOUSEHOLD_TYPE": "Single Female Without kids",
+  "MARITAL_STATUS": "Never married",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "High school graduate",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "State of residence",
+  "STATE_NAME": "Tennessee",
+  "STATE_ABBR": "TN"
+}

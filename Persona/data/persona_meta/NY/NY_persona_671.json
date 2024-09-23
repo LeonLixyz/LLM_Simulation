@@ -1,0 +1,18 @@
+{
+  "Age": "45 to 54 years",
+  "Sex": "Male",
+  "Race": "Black or African American",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Homeless",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Never married",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "English only",
+  "ENGLISH_PROFICIENCY": "Speak English well",
+  "EDUCATION": "Some college, no degree",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "Different state",
+  "STATE_NAME": "New York",
+  "STATE_ABBR": "NY"
+}

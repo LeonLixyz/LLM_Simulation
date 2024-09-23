@@ -1,0 +1,18 @@
+{
+  "Age": "45 to 54 years",
+  "Sex": "Female",
+  "Race": "White",
+  "Ethnicity": null,
+  "HOUSEHOLD_RELATIONSHIP": "Spouse of Householder",
+  "HOUSEHOLD_TYPE": null,
+  "MARITAL_STATUS": "Now married, except separated",
+  "VETERAN_STATUS": "Non-Veteran",
+  "LANGUAGE": "Spanish",
+  "ENGLISH_PROFICIENCY": "Speak English less than very well",
+  "EDUCATION": "9th to 12th grade, no diploma",
+  "BIRTH_PLACE": "US Born",
+  "CITIZENSHIP": "US Citizen",
+  "BIRTH_DETAIL": "Different state",
+  "STATE_NAME": "Oklahoma",
+  "STATE_ABBR": "OK"
+}

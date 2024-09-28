@@ -1,0 +1,29 @@
+{
+  "SATIS_W116": {
+    "id": "SATIS_W116",
+    "question": "SATIS_W116. All in all, are you satisfied or dissatisfied with the way things are going in this country today?",
+    "counts": {
+      "Dissatisfied": 3970,
+      "Satisfied": 1100,
+      "Refused": 28
+    }
+  },
+  "POL1JB_W116": {
+    "id": "POL1JB_W116",
+    "question": "POL1JB_W116. Do you approve or disapprove of the way Joe Biden is handling his job as president?",
+    "counts": {
+      "Disapprove": 2812,
+      "Approve": 2162,
+      "Refused": 124
+    }
+  },
+  "INSTN_CLGS_W116": {
+    "id": "INSTN_CLGS_W116",
+    "question": "INSTN_CLGS_W116. Are each of the following having a positive or negative effect on the way things are going in the country these days?    Colleges and universities",
+    "counts": {
+      "Positive effect": 2784,
+      "Negative effect": 2209,
+      "Refused": 105
+    }
+  }
+}

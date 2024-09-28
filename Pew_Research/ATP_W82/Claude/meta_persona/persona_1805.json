@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "West",
+    "Census division": "Mountain",
+    "Age category": "65+",
+    "Gender": "A woman",
+    "Education level category": "Some College",
+    "Education level category 2": "Associate's degree",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "Born in US (not including unincorporated territories)",
+    "Combining Race": "White",
+    "Race-Ethnicity": "White non-Hispanic",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "U.S.",
+    "Marital status": "Married",
+    "Religion": "Nothing in particular",
+    "Born-again or evangelical Christian": "nan",
+    "Condensed 4-way religion variable": "Unaffiliated",
+    "Religious service attendance": "A few times a year",
+    "Party": "Democrat",
+    "Party lean": "nan",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Liberal Dem/Lean",
+    "Family income": "$100,000 or more",
+    "Registered voter": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "Ideology": "Liberal",
+    "Frequency of internet use": "Several times a day",
+    "Volunteerism status": "Refused",
+    "Income tier 3-way": "Upper income"
+  }
+}

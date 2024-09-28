@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "South Atlantic",
+    "Age category": "18-29",
+    "Gender": "A woman",
+    "Education level category": "Some College",
+    "Education level category 2": "Some college, no degree",
+    "Hispanic identification": "Yes",
+    "Hispanic origin": "Other country",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "0-10 years",
+    "Combining Race": "Or some other race",
+    "Race-Ethnicity": "Hispanic",
+    "Citizenship": "No",
+    "Birthplace with Cuba and Mexico broken out": "Another country",
+    "Marital status": "Never been married",
+    "Religion": "Protestant",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Protestant",
+    "Religious service attendance": "A few times a year",
+    "Party": "Democrat",
+    "Party lean": "nan",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Liberal Dem/Lean",
+    "Family income": "$70,000 to less than $80,000",
+    "Registered voter": "nan",
+    "Ideology": "Very liberal",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Middle income"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "South Atlantic",
+    "Age category": "65+",
+    "Gender": "A woman",
+    "Education level category": "H.S. graduate or less",
+    "Education level category 2": "High school graduate",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "Born in US (not including unincorporated territories)",
+    "Combining Race": "White",
+    "Race-Ethnicity": "White non-Hispanic",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "U.S.",
+    "Marital status": "Widowed",
+    "Religion": "Protestant",
+    "Born-again or evangelical Christian": "Yes, born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Protestant",
+    "Religious service attendance": "Once a week",
+    "Party": "Republican",
+    "Party lean": "nan",
+    "Party summary": "Rep/Lean Rep",
+    "Combining ideology and party identification": "Conservative Rep/Lean",
+    "Family income": "Less than $30,000",
+    "Registered voter": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "Ideology": "Very conservative",
+    "Frequency of internet use": "Several times a week",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Lower income"
+  }
+}

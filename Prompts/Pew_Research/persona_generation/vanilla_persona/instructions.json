@@ -1,0 +1,3 @@
+{
+    "instructions": "### INSTRUCTIONS ###\n1. Create a detailed persona based on the provided metadata.\n2. Ensure consistency with all given metadata points.\n3. Elaborate on the metadata to create a realistic individual.\n4. Strictly follow the below response format.\n\n### RESPONSE FORMAT ###\nPersona: [A detailed description of the individual based on the metadata]\n\n### PERSONA METADATA ###\n{METADATA}\n\n### PERSONA GENERATION ###\n"
+}

@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "West",
+    "Census division": "Pacific",
+    "Age category": "50-64",
+    "Gender": "A woman",
+    "Education level category": "College graduate+",
+    "Education level category 2": "College graduate/some post grad",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "DK/Ref",
+    "Combining Race": "Refused",
+    "Race-Ethnicity": "Refused",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "Refused",
+    "Marital status": "Refused",
+    "Religion": "Roman Catholic",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Catholic",
+    "Religious service attendance": "Once or twice a month",
+    "Party": "Democrat",
+    "Party lean": "nan",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Moderate/Conservative Dem/Lean",
+    "Family income": "Refused",
+    "Registered voter": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "Ideology": "Moderate",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Refused"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "topic_1": {
+    "question_id": "GAP21Q3_W82",
+    "Topic": "How satisfied are you with the way democracy is working in the U.S.?",
+    "Very satisfied": 0,
+    "Somewhat satisfied": 2,
+    "Not too satisfied": 7,
+    "Not at all satisfied": 1
+  },
+  "topic_2": {
+    "question_id": "GAP21Q5_b_W82",
+    "Topic": "Do you think the government of each of the The U.S. respects the personal freedoms of its people?",
+    "Yes, respects personal freedoms": 8,
+    "No, does not respect personal freedoms": 2
+  },
+  "topic_3": {
+    "question_id": "GAP21Q5_a_W82",
+    "Topic": "Do you think the government of each of the China respects the personal freedoms of its people?",
+    "Yes, respects personal freedoms": 0,
+    "No, does not respect personal freedoms": 10
+  },
+  "topic_4": {
+    "question_id": "GAP21Q4_b_W82",
+    "Topic": "Do you have a favorable or unfavorable opinion of China?",
+    "Very unfavorable": 4,
+    "Somewhat unfavorable": 6,
+    "Somewhat favorable": 0,
+    "Very favorable": 0
+  },
+  "topic_5": {
+    "question_id": "GAP21Q4_a_W82",
+    "Topic": "Do you have a favorable or unfavorable opinion of The United States?",
+    "Very unfavorable": 0,
+    "Somewhat unfavorable": 0,
+    "Somewhat favorable": 5,
+    "Very favorable": 5
+  },
+  "topic_6": {
+    "question_id": "GAP21Q4_c_W82",
+    "Topic": "Do you have a favorable or unfavorable opinion of Germany?",
+    "Very unfavorable": 0,
+    "Somewhat unfavorable": 0,
+    "Somewhat favorable": 7,
+    "Very favorable": 3
+  },
+  "topic_7": {
+    "question_id": "GAP21Q4_d_W82",
+    "Topic": "Do you have a favorable or unfavorable opinion of The European Union?",
+    "Very unfavorable": 1,
+    "Somewhat unfavorable": 6,
+    "Somewhat favorable": 2,
+    "Very favorable": 1
+  },
+  "topic_8": {
+    "question_id": "GAP21Q4_e_W82",
+    "Topic": "Do you have a favorable or unfavorable opinion of The United Nations?",
+    "Very unfavorable": 1,
+    "Somewhat unfavorable": 5,
+    "Somewhat favorable": 3,
+    "Very favorable": 1
+  },
+  "topic_9": {
+    "question_id": "GAP21Q4_f_W82",
+    "Topic": "Do you have a favorable or unfavorable opinion of NATO, that is, North Atlantic Treaty Organization?",
+    "Very unfavorable": 0,
+    "Somewhat unfavorable": 0,
+    "Somewhat favorable": 2,
+    "Very favorable": 8
+  },
+  "topic_10": {
+    "question_id": "GAP21Q7_a_W82",
+    "Topic": "Would you say The U.S. has done a good or bad job dealing with the coronavirus outbreak?",
+    "Very good": 0,
+    "Somewhat good": 1,
+    "Somewhat bad": 6,
+    "Very bad": 3
+  },
+  "topic_11": {
+    "question_id": "GAP21Q7_b_W82",
+    "Topic": "Would you say China has done a good or bad job dealing with the coronavirus outbreak?",
+    "Very good": 0,
+    "Somewhat good": 0,
+    "Somewhat bad": 3,
+    "Very bad": 7
+  },
+  "topic_12": {
+    "question_id": "GAP21Q7_c_W82",
+    "Topic": "Would you say The European Union has done a good or bad job dealing with the coronavirus outbreak?",
+    "Very good": 0,
+    "Somewhat good": 4,
+    "Somewhat bad": 4,
+    "Very bad": 2
+  },
+  "topic_13": {
+    "question_id": "GAP21Q7_d_W82",
+    "Topic": "Would you say The World Health Organization, or WHO, has done a good or bad job dealing with the coronavirus outbreak?",
+    "Very good": 0,
+    "Somewhat good": 5,
+    "Somewhat bad": 1,
+    "Very bad": 4
+  },
+  "topic_14": {
+    "question_id": "GAP21Q8_W82",
+    "Topic": "As a result of the coronavirus outbreak, has your own life changed?",
+    "A great deal": 7,
+    "A fair amount": 3,
+    "Not too much": 0,
+    "Not at all": 0
+  },
+  "topic_15": {
+    "question_id": "GAP21Q9_W82",
+    "Topic": "Thinking about the U.S. as a whole, do you think this country is now",
+    "More DIVIDED than before the coronavirus outbrea": 9,
+    "More UNITED than before the coronavirus outbreak": 1
+  },
+  "topic_16": {
+    "question_id": "GAP21Q10_W82",
+    "Topic": "Thinking about restrictions on public activity in the U.S. over the course of the coronavirus outbreak, do you think there should have been",
+    "More restrictions": 1,
+    "Fewer restrictions": 6,
+    "The restrictions were about right": 3
+  },
+  "topic_17": {
+    "question_id": "GAP21Q11_W82",
+    "Topic": "Which statement comes closer to your view, even if neither is exactly right? America's economy is",
+    "Failing to recover from the effects of the coronavirus outbreak in ways that show the weaknesses of its economic system": 5,
+    "Recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system": 5
+  },
+  "topic_18": {
+    "question_id": "GAP21Q12_W82",
+    "Topic": "How much confidence, if any, do you have in the healthcare system in the U.S. to handle a future global health emergency that might occur?",
+    "Some": 4,
+    "Not too much": 5,
+    "A great deal": 1,
+    "None at all": 0
+  },
+  "topic_19": {
+    "question_id": "GAP21Q13_a_W82",
+    "Topic": "Thinking about the U.S., how much would you say the economic system needs to be changed, if at all?",
+    "It needs to be completely reformed": 0,
+    "It needs major changes": 4,
+    "It needs minor changes": 6,
+    "It doesn't need to be changed": 0
+  },
+  "topic_20": {
+    "question_id": "GAP21Q13_b_W82",
+    "Topic": "Thinking about the U.S., how much would you say the healthcare system needs to be changed, if at all?",
+    "It needs to be completely reformed": 0,
+    "It needs major changes": 9,
+    "It needs minor changes": 1,
+    "It doesn't need to be changed": 0
+  },
+  "topic_21": {
+    "question_id": "GAP21Q13_c_W82",
+    "Topic": "Thinking about the U.S., how much would you say the political system needs to be changed, if at all?",
+    "It needs to be completely reformed": 0,
+    "It needs major changes": 6,
+    "It needs minor changes": 4,
+    "It doesn't need to be changed": 0
+  }
+}

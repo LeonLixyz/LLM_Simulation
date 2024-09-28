@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "Northeast",
+    "Census division": "Middle Atlantic",
+    "Age category": "30-49",
+    "Gender": "A woman",
+    "Education level category": "College graduate+",
+    "Education level category 2": "College graduate/some post grad",
+    "Hispanic identification": "Yes",
+    "Hispanic origin": "Other country",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "0-10 years",
+    "Combining Race": "Black or African-American",
+    "Race-Ethnicity": "Hispanic",
+    "Citizenship": "No",
+    "Birthplace with Cuba and Mexico broken out": "Another country",
+    "Marital status": "Married",
+    "Religion": "Roman Catholic",
+    "Born-again or evangelical Christian": "Yes, born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Catholic",
+    "Religious service attendance": "Once or twice a month",
+    "Party": "Republican",
+    "Party lean": "nan",
+    "Party summary": "Rep/Lean Rep",
+    "Combining ideology and party identification": "Moderate/Liberal Rep/Lean",
+    "Family income": "$90,000 to less than $100,000",
+    "Registered voter": "nan",
+    "Ideology": "Moderate",
+    "Frequency of internet use": "Several times a day",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Middle income"
+  }
+}

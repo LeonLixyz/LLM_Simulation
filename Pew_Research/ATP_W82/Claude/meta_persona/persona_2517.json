@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "Midwest",
+    "Census division": "East North Central",
+    "Age category": "50-64",
+    "Gender": "A woman",
+    "Education level category": "H.S. graduate or less",
+    "Education level category 2": "High school graduate",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "Born in US (not including unincorporated territories)",
+    "Combining Race": "White",
+    "Race-Ethnicity": "White non-Hispanic",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "U.S.",
+    "Marital status": "Married",
+    "Religion": "Protestant",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Protestant",
+    "Religious service attendance": "Never",
+    "Party": "Republican",
+    "Party lean": "nan",
+    "Party summary": "Rep/Lean Rep",
+    "Combining ideology and party identification": "Conservative Rep/Lean",
+    "Family income": "$100,000 or more",
+    "Registered voter": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "Ideology": "Conservative",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Upper income"
+  }
+}

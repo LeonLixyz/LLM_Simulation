@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "Midwest",
+    "Census division": "West North Central",
+    "Age category": "18-29",
+    "Gender": "A woman",
+    "Education level category": "College graduate+",
+    "Education level category 2": "College graduate/some post grad",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "11-20 years",
+    "Combining Race": "Asian or Asian-American",
+    "Race-Ethnicity": "Asian non-Hispanic",
+    "Citizenship": "No",
+    "Birthplace with Cuba and Mexico broken out": "Another country",
+    "Marital status": "Never been married",
+    "Religion": "Agnostic",
+    "Born-again or evangelical Christian": "nan",
+    "Condensed 4-way religion variable": "Unaffiliated",
+    "Religious service attendance": "Seldom",
+    "Party": "Democrat",
+    "Party lean": "nan",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Liberal Dem/Lean",
+    "Family income": "$100,000 or more",
+    "Registered voter": "nan",
+    "Ideology": "Liberal",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "Yes",
+    "Income tier 3-way": "Upper income"
+  }
+}

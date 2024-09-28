@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Non-metropolitan",
+    "Census region": "West",
+    "Census division": "Pacific",
+    "Age category": "50-64",
+    "Gender": "A man",
+    "Education level category": "Some College",
+    "Education level category 2": "Some college, no degree",
+    "Hispanic identification": "Yes",
+    "Hispanic origin": "Spanish",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "Born in US (not including unincorporated territories)",
+    "Combining Race": "Mixed Race",
+    "Race-Ethnicity": "Hispanic",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "U.S.",
+    "Marital status": "Married",
+    "Religion": "Protestant",
+    "Born-again or evangelical Christian": "Yes, born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Protestant",
+    "Religious service attendance": "More than once a week",
+    "Party": "Republican",
+    "Party lean": "nan",
+    "Party summary": "Rep/Lean Rep",
+    "Combining ideology and party identification": "Conservative Rep/Lean",
+    "Family income": "Less than $30,000",
+    "Registered voter": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "Ideology": "Very conservative",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "Yes",
+    "Income tier 3-way": "Lower income"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "South Atlantic",
+    "Age category": "50-64",
+    "Gender": "A man",
+    "Education level category": "Some College",
+    "Education level category 2": "Associate's degree",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "Born in US (not including unincorporated territories)",
+    "Combining Race": "Black or African-American",
+    "Race-Ethnicity": "Black non-Hispanic",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "U.S.",
+    "Marital status": "Refused",
+    "Religion": "Protestant",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Protestant",
+    "Religious service attendance": "Seldom",
+    "Party": "Something else",
+    "Party lean": "Refused",
+    "Party summary": "DK/Refused/No lean",
+    "Combining ideology and party identification": "Refused either F_IDEO or F_PARTYSUM_FINAL",
+    "Family income": "$80,000 to less than $90,000",
+    "Registered voter": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "Ideology": "Moderate",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Upper income"
+  }
+}

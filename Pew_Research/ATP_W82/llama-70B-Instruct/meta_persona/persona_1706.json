@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "West South Central",
+    "Age category": "18-29",
+    "Gender": "A man",
+    "Education level category": "College graduate+",
+    "Education level category 2": "Postgraduate",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "21+ years",
+    "Combining Race": "Asian or Asian-American",
+    "Race-Ethnicity": "Asian non-Hispanic",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "Another country",
+    "Marital status": "Never been married",
+    "Religion": "Muslim",
+    "Born-again or evangelical Christian": "nan",
+    "Condensed 4-way religion variable": "Other",
+    "Religious service attendance": "More than once a week",
+    "Party": "Democrat",
+    "Party lean": "nan",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Liberal Dem/Lean",
+    "Family income": "$60,000 to less than $70,000",
+    "Registered voter": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "Ideology": "Liberal",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "Yes",
+    "Income tier 3-way": "Middle income"
+  }
+}

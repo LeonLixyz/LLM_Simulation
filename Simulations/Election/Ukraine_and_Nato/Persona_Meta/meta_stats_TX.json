@@ -1,0 +1,8 @@
+{
+  "topic_1": {
+    "Topic": "###QUESTION###\n\nTopic: Ukraine_and_Nato\n\nCandidates' Stances:\n- A: Donald Trump (Former U.S. President, businessman)\n  Stance: The Republican has an isolationist foreign policy and wants the US to disentangle itself from conflicts elsewhere in the world.\nHe has pledged to end the war in Ukraine \"within 24 hours\" through a negotiated settlement with Russia, a move that Democrats say would embolden Vladimir Putin.\n\"I know Zelensky very well, and I know Putin very well,\" he said during the presidential debate. \"I think it's the US best interest to get this war finished and just get it done, negotiate a deal.\"\nTrump gave no details on what he thinks each side should give up in such a deal, and the Kremlin has said nothing can be done in 24 hours.\nTrump has also said he would stop the cash flowing to Ukraine. Mr Biden signed off $61bn in military aid for Ukraine in April.\nOn Nato, he thinks countries that fall short of the advisory 2% of GDP spent on defence should forego the protection that comes with membership.\n\n- B: Kamala Harris (Current U.S. Vice President, former Senator)\n  Stance: Unlikely to stop the Ukraine War.\n\n### YOUR RESPONSE ###\n\nPlease provide your response following the format above. **You must strictly adhere to the specified format. Do not include any additional information or commentary.** Your response begins below:\n\n",
+    "Trump (A)": 75,
+    "Harris (B)": 25,
+    "Abstain": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "West",
+    "Census division": "Pacific",
+    "Age category": "65+",
+    "Gender": "A woman",
+    "Education level category": "Some College",
+    "Education level category 2": "Some college, no degree",
+    "Hispanic identification": "Yes",
+    "Hispanic origin": "Puerto Rican",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "21+ years",
+    "Combining Race": "White",
+    "Race-Ethnicity": "Hispanic",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "Puerto Rico",
+    "Marital status": "Married",
+    "Religion": "Protestant",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Protestant",
+    "Religious service attendance": "More than once a week",
+    "Party": "Something else",
+    "Party lean": "Refused",
+    "Party summary": "DK/Refused/No lean",
+    "Combining ideology and party identification": "Refused either F_IDEO or F_PARTYSUM_FINAL",
+    "Family income": "Less than $30,000",
+    "Registered voter": "You are NOT registered to vote at your current address",
+    "Ideology": "Refused",
+    "Frequency of internet use": "About once a day",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Lower income"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "topic_1": {
+        "topic": "Democrat vs Republican",
+        "candidates": {
+            "A": {
+                "name": "Democrat Party",
+                "background_info": "",
+                "stance": "The Democrat Party is a center-left political party in the United States. It is one of the two major political parties in the country, alongside the Republican Party. The party is generally associated with progressive values, social liberalism, and support for civil rights, environmental protection, and government regulation of big businesses. The Democratic Party has a long history of supporting policies that promote equality, social justice, and economic opportunity for all Americans."
+            },
+            "B": {
+                "name": "Republican Party",
+                "background_info": "",
+                "stance": "The Republican Party is a center-right political party in the United States. It is the oldest and largest political party in the country, with a history dating back to the formation of the first modern political parties in the late 18th century. The Republican Party is generally associated with conservative values, including traditional social norms, limited government intervention in the economy, and support for individual freedoms and limited government regulation. The Republican Party has a long history of supporting policies that promote economic growth, limited government, and individual freedoms."
+            }
+        }
+    }
+}

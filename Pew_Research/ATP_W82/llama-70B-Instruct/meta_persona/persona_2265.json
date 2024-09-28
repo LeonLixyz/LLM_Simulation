@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "Northeast",
+    "Census division": "Middle Atlantic",
+    "Age category": "30-49",
+    "Gender": "A man",
+    "Education level category": "College graduate+",
+    "Education level category 2": "College graduate/some post grad",
+    "Hispanic identification": "Yes",
+    "Hispanic origin": "Mexican",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "11-20 years",
+    "Combining Race": "Or some other race",
+    "Race-Ethnicity": "Hispanic",
+    "Citizenship": "No",
+    "Birthplace with Cuba and Mexico broken out": "Mexico",
+    "Marital status": "Living with a partner",
+    "Religion": "Roman Catholic",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Catholic",
+    "Religious service attendance": "Once or twice a month",
+    "Party": "Democrat",
+    "Party lean": "nan",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Moderate/Conservative Dem/Lean",
+    "Family income": "$40,000 to less than $50,000",
+    "Registered voter": "nan",
+    "Ideology": "Moderate",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "No",
+    "Income tier 3-way": "Lower income"
+  }
+}

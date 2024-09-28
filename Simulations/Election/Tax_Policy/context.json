@@ -1,0 +1,17 @@
+{
+    "topic_1": {
+        "topic": "Taxes",
+        "candidates": {
+            "A": {
+                "name": "Donald Trump",
+                "background_info": "Former U.S. President, businessman",
+                "stance": "Trump has a raft of tax cuts planned.\nFirstly, he wants to extend the cuts he enacted in 2017, which are due to expire next year. That was the biggest tax overhaul in decades, aimed at simplifying the tax code and promoting growth and investment.\nThe largest cuts went to businesses and the wealthy, which Democrats have called to reverse.\nThe Republican also wants to shave a further percentage point off corporation tax - and has floated an even bigger cut to 15%.\nHe has proposed making tipped income tax free, a proposal that his opponent Kamala Harris subsequently backed, too.\nTrump has also called on abolishing the tax on Social Security payments, a move that would be welcomed by retired Americans but would at the same time punch a big hole in the fund."
+            },
+            "B": {
+                "name": "Kamala Harris",
+                "background_info": "Current U.S. Vice President, former Senator",
+                "stance": "In 2017, while a senator, Ms Harris supported a number of progressive tax programmes, co-sponsoring a bill with Bernie Sanders to expand social security for the elderly by increasing the tax rate on investments.\nAs a presidential candidate in 2019, she supported a corporate tax rate of 35%, up from 21%.\nThis was more aggressive than President Biden's proposal, which she also supported, of an increase to 28%.\nA campaign official told the BBC that the vice-president would continue to back President Biden's proposal of not raising taxes on Americans earning less than $400,000\nMs Harris said during her DNC acceptance speech that she would \"pass a middle class tax cut that will benefit more than 100 million Americans\".\nAt the time of the speech, the details of the tax cut were unclear.\nThe Harris campaign later filled in the detail, saying that through the restoration of the Child Tax Credit and the Earned Income Tax Credit more Americans will be able to keep more of their income.\nRestoring the expanded Child Tax Credit would give families with newborn children a $6,000 tax cut."
+            }
+        }
+    }
+}

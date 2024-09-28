@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "South Atlantic",
+    "Age category": "30-49",
+    "Gender": "A man",
+    "Education level category": "College graduate+",
+    "Education level category 2": "Postgraduate",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "0-10 years",
+    "Combining Race": "Asian or Asian-American",
+    "Race-Ethnicity": "Asian non-Hispanic",
+    "Citizenship": "No",
+    "Birthplace with Cuba and Mexico broken out": "Another country",
+    "Marital status": "Separated",
+    "Religion": "Roman Catholic",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Catholic",
+    "Religious service attendance": "Seldom",
+    "Party": "Independent",
+    "Party lean": "Refused",
+    "Party summary": "DK/Refused/No lean",
+    "Combining ideology and party identification": "Refused either F_IDEO or F_PARTYSUM_FINAL",
+    "Family income": "$60,000 to less than $70,000",
+    "Registered voter": "nan",
+    "Ideology": "Liberal",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "Yes",
+    "Income tier 3-way": "Lower income"
+  }
+}

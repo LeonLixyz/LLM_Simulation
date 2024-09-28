@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "West South Central",
+    "Age category": "30-49",
+    "Gender": "A man",
+    "Education level category": "Some College",
+    "Education level category 2": "Some college, no degree",
+    "Hispanic identification": "Yes",
+    "Hispanic origin": "Mexican",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "0-10 years",
+    "Combining Race": "Or some other race",
+    "Race-Ethnicity": "Hispanic",
+    "Citizenship": "No",
+    "Birthplace with Cuba and Mexico broken out": "Mexico",
+    "Marital status": "Separated",
+    "Religion": "Roman Catholic",
+    "Born-again or evangelical Christian": "No, not born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Catholic",
+    "Religious service attendance": "Once or twice a month",
+    "Party": "Independent",
+    "Party lean": "The Democratic Party",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Liberal Dem/Lean",
+    "Family income": "$40,000 to less than $50,000",
+    "Registered voter": "nan",
+    "Ideology": "Liberal",
+    "Frequency of internet use": "Almost constantly",
+    "Volunteerism status": "Yes",
+    "Income tier 3-way": "Middle income"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "West South Central",
+    "Age category": "50-64",
+    "Gender": "A man",
+    "Education level category": "H.S. graduate or less",
+    "Education level category 2": "Less than high school",
+    "Hispanic identification": "Yes",
+    "Hispanic origin": "Mexican",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "21+ years",
+    "Combining Race": "White",
+    "Race-Ethnicity": "Hispanic",
+    "Citizenship": "No",
+    "Birthplace with Cuba and Mexico broken out": "Mexico",
+    "Marital status": "Married",
+    "Religion": "Mormon (Church of Jesus Christ of Latter-day Saints or LDS)",
+    "Born-again or evangelical Christian": "Yes, born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Other",
+    "Religious service attendance": "Once a week",
+    "Party": "Democrat",
+    "Party lean": "nan",
+    "Party summary": "Dem/Lean Dem",
+    "Combining ideology and party identification": "Moderate/Conservative Dem/Lean",
+    "Family income": "$60,000 to less than $70,000",
+    "Registered voter": "nan",
+    "Ideology": "Moderate",
+    "Frequency of internet use": "Several times a day",
+    "Volunteerism status": "Yes",
+    "Income tier 3-way": "Middle income"
+  }
+}

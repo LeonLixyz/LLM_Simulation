@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "Metropolitan area indicator": "Metropolitan",
+    "Census region": "South",
+    "Census division": "West South Central",
+    "Age category": "30-49",
+    "Gender": "A man",
+    "Education level category": "College graduate+",
+    "Education level category 2": "College graduate/some post grad",
+    "Hispanic identification": "No",
+    "Hispanic origin": "nan",
+    "Years lived in U.S. (excluding Puerto Rico or other U.S. territories)": "21+ years",
+    "Combining Race": "Refused",
+    "Race-Ethnicity": "Refused",
+    "Citizenship": "Yes",
+    "Birthplace with Cuba and Mexico broken out": "Another country",
+    "Marital status": "Living with a partner",
+    "Religion": "Other",
+    "Born-again or evangelical Christian": "Yes, born-again or evangelical Christian",
+    "Condensed 4-way religion variable": "Other",
+    "Religious service attendance": "Once a week",
+    "Party": "Something else",
+    "Party lean": "Refused",
+    "Party summary": "DK/Refused/No lean",
+    "Combining ideology and party identification": "Refused either F_IDEO or F_PARTYSUM_FINAL",
+    "Family income": "Refused",
+    "Registered voter": "Refused",
+    "Ideology": "Refused",
+    "Frequency of internet use": "Several times a day",
+    "Volunteerism status": "Yes",
+    "Income tier 3-way": "Refused"
+  }
+}

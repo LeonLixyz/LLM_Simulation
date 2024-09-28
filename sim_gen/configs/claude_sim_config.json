@@ -1,0 +1,10 @@
+{
+    "model_backend": "AWS",
+    "model_name": "anthropic.claude-3-sonnet-20240229-v1:0",
+    "model_save_name": "Claude",
+    "num_personas": 10,
+    "topic_start_index": 1,
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "max_tokens": 1024
+  }

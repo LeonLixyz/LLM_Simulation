@@ -1,0 +1,10 @@
+{
+    "model_backend": "vllm",
+    "model_name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "model_save_name": "llama-8B-Instruct",
+    "num_personas": 100,
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "max_tokens": 1024,
+    "start_index": 0
+  }

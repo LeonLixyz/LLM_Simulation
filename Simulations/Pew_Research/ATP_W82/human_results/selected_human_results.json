@@ -1,0 +1,402 @@
+{
+  "GAP21Q3_W82": {
+    "id": "GAP21Q3_W82",
+    "question": "GAP21Q3_W82. How satisfied are you with the way democracy is working in the U.S.?",
+    "results": {
+      "count": {
+        "Not too satisfied": 1022,
+        "Somewhat satisfied": 920,
+        "Not at all satisfied": 500,
+        "Very satisfied": 146,
+        "Refused": 8
+      },
+      "percentage": {
+        "Not too satisfied": 39.37,
+        "Somewhat satisfied": 35.44,
+        "Not at all satisfied": 19.26,
+        "Very satisfied": 5.62,
+        "Refused": 0.31
+      }
+    }
+  },
+  "GAP21Q4_a_W82": {
+    "id": "GAP21Q4_a_W82",
+    "question": "GAP21Q4_a_W82. Do you have a favorable or unfavorable opinion of\u2026    The United States",
+    "results": {
+      "count": {
+        "Somewhat favorable": 578,
+        "Very favorable": 412,
+        "Somewhat unfavorable": 235,
+        "Very unfavorable": 54,
+        "Refused": 8
+      },
+      "percentage": {
+        "Somewhat favorable": 44.91,
+        "Very favorable": 32.01,
+        "Somewhat unfavorable": 18.26,
+        "Very unfavorable": 4.2,
+        "Refused": 0.62
+      }
+    }
+  },
+  "GAP21Q4_b_W82": {
+    "id": "GAP21Q4_b_W82",
+    "question": "GAP21Q4_b_W82. Do you have a favorable or unfavorable opinion of\u2026    China",
+    "results": {
+      "count": {
+        "Very unfavorable": 550,
+        "Somewhat unfavorable": 503,
+        "Somewhat favorable": 189,
+        "Refused": 29,
+        "Very favorable": 16
+      },
+      "percentage": {
+        "Very unfavorable": 42.74,
+        "Somewhat unfavorable": 39.08,
+        "Somewhat favorable": 14.69,
+        "Refused": 2.25,
+        "Very favorable": 1.24
+      }
+    }
+  },
+  "GAP21Q4_c_W82": {
+    "id": "GAP21Q4_c_W82",
+    "question": "GAP21Q4_c_W82. Do you have a favorable or unfavorable opinion of\u2026    Germany",
+    "results": {
+      "count": {
+        "Somewhat favorable": 708,
+        "Somewhat unfavorable": 270,
+        "Very favorable": 182,
+        "Very unfavorable": 78,
+        "Refused": 49
+      },
+      "percentage": {
+        "Somewhat favorable": 55.01,
+        "Somewhat unfavorable": 20.98,
+        "Very favorable": 14.14,
+        "Very unfavorable": 6.06,
+        "Refused": 3.81
+      }
+    }
+  },
+  "GAP21Q4_d_W82": {
+    "id": "GAP21Q4_d_W82",
+    "question": "GAP21Q4_d_W82. Do you have a favorable or unfavorable opinion of\u2026    The European Union",
+    "results": {
+      "count": {
+        "Somewhat favorable": 694,
+        "Somewhat unfavorable": 317,
+        "Very unfavorable": 115,
+        "Very favorable": 115,
+        "Refused": 46
+      },
+      "percentage": {
+        "Somewhat favorable": 53.92,
+        "Somewhat unfavorable": 24.63,
+        "Very unfavorable": 8.94,
+        "Very favorable": 8.94,
+        "Refused": 3.57
+      }
+    }
+  },
+  "GAP21Q4_e_W82": {
+    "id": "GAP21Q4_e_W82",
+    "question": "GAP21Q4_e_W82. Do you have a favorable or unfavorable opinion of\u2026    The United Nations",
+    "results": {
+      "count": {
+        "Somewhat favorable": 596,
+        "Somewhat unfavorable": 296,
+        "Very unfavorable": 199,
+        "Very favorable": 164,
+        "Refused": 32
+      },
+      "percentage": {
+        "Somewhat favorable": 46.31,
+        "Somewhat unfavorable": 23.0,
+        "Very unfavorable": 15.46,
+        "Very favorable": 12.74,
+        "Refused": 2.49
+      }
+    }
+  },
+  "GAP21Q4_f_W82": {
+    "id": "GAP21Q4_f_W82",
+    "question": "GAP21Q4_f_W82. Do you have a favorable or unfavorable opinion of\u2026    NATO, that is, North Atlantic Treaty Organization",
+    "results": {
+      "count": {
+        "Somewhat favorable": 639,
+        "Somewhat unfavorable": 306,
+        "Very favorable": 164,
+        "Very unfavorable": 129,
+        "Refused": 49
+      },
+      "percentage": {
+        "Somewhat favorable": 49.65,
+        "Somewhat unfavorable": 23.78,
+        "Very favorable": 12.74,
+        "Very unfavorable": 10.02,
+        "Refused": 3.81
+      }
+    }
+  },
+  "GAP21Q5_a_W82": {
+    "id": "GAP21Q5_a_W82",
+    "question": "GAP21Q5_a_W82. Do you think the government of each of the following countries respects the personal freedoms of its people?    China",
+    "results": {
+      "count": {
+        "No, does not respect personal freedoms": 2416,
+        "Yes, respects personal freedoms": 148,
+        "Refused": 32
+      },
+      "percentage": {
+        "No, does not respect personal freedoms": 93.07,
+        "Yes, respects personal freedoms": 5.7,
+        "Refused": 1.23
+      }
+    }
+  },
+  "GAP21Q5_b_W82": {
+    "id": "GAP21Q5_b_W82",
+    "question": "GAP21Q5_b_W82. Do you think the government of each of the following countries respects the personal freedoms of its people?    The U.S.",
+    "results": {
+      "count": {
+        "Yes, respects personal freedoms": 1769,
+        "No, does not respect personal freedoms": 800,
+        "Refused": 27
+      },
+      "percentage": {
+        "Yes, respects personal freedoms": 68.14,
+        "No, does not respect personal freedoms": 30.82,
+        "Refused": 1.04
+      }
+    }
+  },
+  "GAP21Q7_a_W82": {
+    "id": "GAP21Q7_a_W82",
+    "question": "GAP21Q7_a_W82. Would you say each of the following has done a good or bad job dealing with the coronavirus outbreak?    The U.S.",
+    "results": {
+      "count": {
+        "Somewhat good": 893,
+        "Somewhat bad": 793,
+        "Very bad": 725,
+        "Very good": 171,
+        "Refused": 14
+      },
+      "percentage": {
+        "Somewhat good": 34.4,
+        "Somewhat bad": 30.55,
+        "Very bad": 27.93,
+        "Very good": 6.59,
+        "Refused": 0.54
+      }
+    }
+  },
+  "GAP21Q7_b_W82": {
+    "id": "GAP21Q7_b_W82",
+    "question": "GAP21Q7_b_W82. Would you say each of the following has done a good or bad job dealing with the coronavirus outbreak?    China",
+    "results": {
+      "count": {
+        "Somewhat good": 837,
+        "Very bad": 718,
+        "Somewhat bad": 681,
+        "Very good": 277,
+        "Refused": 83
+      },
+      "percentage": {
+        "Somewhat good": 32.24,
+        "Very bad": 27.66,
+        "Somewhat bad": 26.23,
+        "Very good": 10.67,
+        "Refused": 3.2
+      }
+    }
+  },
+  "GAP21Q7_c_W82": {
+    "id": "GAP21Q7_c_W82",
+    "question": "GAP21Q7_c_W82. Would you say each of the following has done a good or bad job dealing with the coronavirus outbreak?    The European Union",
+    "results": {
+      "count": {
+        "Somewhat good": 1446,
+        "Somewhat bad": 732,
+        "Very bad": 163,
+        "Very good": 156,
+        "Refused": 99
+      },
+      "percentage": {
+        "Somewhat good": 55.7,
+        "Somewhat bad": 28.2,
+        "Very bad": 6.28,
+        "Very good": 6.01,
+        "Refused": 3.81
+      }
+    }
+  },
+  "GAP21Q7_d_W82": {
+    "id": "GAP21Q7_d_W82",
+    "question": "GAP21Q7_d_W82. Would you say each of the following has done a good or bad job dealing with the coronavirus outbreak?    The World Health Organization, or WHO",
+    "results": {
+      "count": {
+        "Somewhat good": 1211,
+        "Somewhat bad": 655,
+        "Very bad": 448,
+        "Very good": 224,
+        "Refused": 58
+      },
+      "percentage": {
+        "Somewhat good": 46.65,
+        "Somewhat bad": 25.23,
+        "Very bad": 17.26,
+        "Very good": 8.63,
+        "Refused": 2.23
+      }
+    }
+  },
+  "GAP21Q8_W82": {
+    "id": "GAP21Q8_W82",
+    "question": "GAP21Q8_W82. As a result of the coronavirus outbreak, has your own life changed\u2026",
+    "results": {
+      "count": {
+        "A fair amount": 1176,
+        "A great deal": 761,
+        "Not too much": 609,
+        "Not at all": 50
+      },
+      "percentage": {
+        "A fair amount": 45.3,
+        "A great deal": 29.31,
+        "Not too much": 23.46,
+        "Not at all": 1.93
+      }
+    }
+  },
+  "GAP21Q9_W82": {
+    "id": "GAP21Q9_W82",
+    "question": "GAP21Q9_W82. Thinking about the U.S. as a whole, do you think this country is now\u2026",
+    "results": {
+      "count": {
+        "More DIVIDED than before the coronavirus outbreak": 2315,
+        "More UNITED than before the coronavirus outbreak": 257,
+        "Refused": 24
+      },
+      "percentage": {
+        "More DIVIDED than before the coronavirus outbreak": 89.18,
+        "More UNITED than before the coronavirus outbreak": 9.9,
+        "Refused": 0.92
+      }
+    }
+  },
+  "GAP21Q10_W82": {
+    "id": "GAP21Q10_W82",
+    "question": "GAP21Q10_W82. Thinking about restrictions on public activity in the U.S. over the course of the coronavirus outbreak, do you think there should have been\u2026",
+    "results": {
+      "count": {
+        "More restrictions": 1481,
+        "Fewer restrictions": 626,
+        "The restrictions were about right": 476,
+        "Refused": 13
+      },
+      "percentage": {
+        "More restrictions": 57.05,
+        "Fewer restrictions": 24.11,
+        "The restrictions were about right": 18.34,
+        "Refused": 0.5
+      }
+    }
+  },
+  "GAP21Q11_W82": {
+    "id": "GAP21Q11_W82",
+    "question": "GAP21Q11_W82. Which statement comes closer to your view, even if neither is exactly right? America\u2019s economy is\u2026",
+    "results": {
+      "count": {
+        "Failing to recover from the effects of the coronavirus outbreak in ways that show the weaknesses of its economic system": 1578,
+        "Recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system": 976,
+        "Refused": 42
+      },
+      "percentage": {
+        "Failing to recover from the effects of the coronavirus outbreak in ways that show the weaknesses of its economic system": 60.79,
+        "Recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system": 37.6,
+        "Refused": 1.62
+      }
+    }
+  },
+  "GAP21Q12_W82": {
+    "id": "GAP21Q12_W82",
+    "question": "GAP21Q12_W82. How much confidence, if any, do you have in the healthcare system in the U.S. to handle a future global health emergency that might occur?",
+    "results": {
+      "count": {
+        "Some": 1221,
+        "Not too much": 859,
+        "A great deal": 285,
+        "None at all": 221,
+        "Refused": 10
+      },
+      "percentage": {
+        "Some": 47.03,
+        "Not too much": 33.09,
+        "A great deal": 10.98,
+        "None at all": 8.51,
+        "Refused": 0.39
+      }
+    }
+  },
+  "GAP21Q13_a_W82": {
+    "id": "GAP21Q13_a_W82",
+    "question": "GAP21Q13_a_W82. Thinking about the U.S., how much would you say each of the following needs to be changed, if at all?    The economic system",
+    "results": {
+      "count": {
+        "It needs major changes": 1293,
+        "It needs minor changes": 726,
+        "It needs to be completely reformed": 411,
+        "It doesn\u2019t need to be changed": 155,
+        "Refused": 11
+      },
+      "percentage": {
+        "It needs major changes": 49.81,
+        "It needs minor changes": 27.97,
+        "It needs to be completely reformed": 15.83,
+        "It doesn\u2019t need to be changed": 5.97,
+        "Refused": 0.42
+      }
+    }
+  },
+  "GAP21Q13_b_W82": {
+    "id": "GAP21Q13_b_W82",
+    "question": "GAP21Q13_b_W82. Thinking about the U.S., how much would you say each of the following needs to be changed, if at all?    The healthcare system",
+    "results": {
+      "count": {
+        "It needs major changes": 1224,
+        "It needs to be completely reformed": 741,
+        "It needs minor changes": 533,
+        "It doesn\u2019t need to be changed": 86,
+        "Refused": 12
+      },
+      "percentage": {
+        "It needs major changes": 47.15,
+        "It needs to be completely reformed": 28.54,
+        "It needs minor changes": 20.53,
+        "It doesn\u2019t need to be changed": 3.31,
+        "Refused": 0.46
+      }
+    }
+  },
+  "GAP21Q13_c_W82": {
+    "id": "GAP21Q13_c_W82",
+    "question": "GAP21Q13_c_W82. Thinking about the U.S., how much would you say each of the following needs to be changed, if at all?    The political system",
+    "results": {
+      "count": {
+        "It needs major changes": 1169,
+        "It needs to be completely reformed": 1036,
+        "It needs minor changes": 331,
+        "It doesn\u2019t need to be changed": 52,
+        "Refused": 8
+      },
+      "percentage": {
+        "It needs major changes": 45.03,
+        "It needs to be completely reformed": 39.91,
+        "It needs minor changes": 12.75,
+        "It doesn\u2019t need to be changed": 2.0,
+        "Refused": 0.31
+      }
+    }
+  }
+}

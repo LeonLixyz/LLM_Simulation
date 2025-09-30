@@ -1,0 +1,80 @@
+{
+    "topic_1": {
+        "question_id": "1",
+        "topic": "Which of the following cars would you choose?",
+        "candidates": {
+            "A": {
+                "stance": "Car A costs $35,000, emits 90 grams of CO2 per kilometer, and includes eco-friendly materials and technology."
+            },
+            "B": {
+                "stance": "Car B costs $25,000 but emits 150 grams of CO2 per kilometer and lacks eco-friendly features."
+            }
+        }
+    },
+    "topic_2": {
+        "question_id": "2",
+        "topic": "Which type of vehicle are you most likely to purchase?",
+        "candidates": {
+            "A": {
+                "stance": "Electric vehicle (EV) for lower emissions and sustainability"
+            },
+            "B": {
+                "stance": "Gasoline vehicle for performance and convenience"
+            }
+        }
+    },
+    "topic_3": {
+        "question_id": "3",
+        "topic": "How do you prefer to shop for most products?",
+        "candidates": {
+            "A": {
+                "stance": "Online shopping for convenience and variety"
+            },
+            "B": {
+                "stance": "In-store shopping for a hands-on experience"
+            }
+        }
+    },
+    "topic_4": {
+        "question_id": "4",
+        "topic": "How often do you purchase food and drinks at outdoor markets or local vendors?",
+        "candidates": {
+            "A": {
+                "stance": "Every day"
+            },
+            "B": {
+                "stance": "2 to 3 times a week"
+            },
+            "C": {
+                "stance": "Once a week"
+            },
+            "D": {
+                "stance": "Once every 2 weeks"
+            },
+            "E": {
+                "stance": "Never"
+            }
+        }
+    },
+    "topic_5": {
+        "question_id": "5",
+        "topic": "What is your typical meal choice on a busy workday?",
+        "candidates": {
+            "A": {
+                "stance": "Fast food for quick meals"
+            },
+            "B": {
+                "stance": "Home-cooked meals for a healthier option"
+            },
+            "C": {
+                "stance": "Fine dining for a premium experience"
+            },
+            "D": {
+                "stance": "Street food for variety and convenience"
+            },
+            "E": {
+                "stance": "Vegetarian or vegan for a plant-based diet"
+            }
+        }
+    }
+}

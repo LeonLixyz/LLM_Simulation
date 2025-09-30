@@ -1,0 +1,38 @@
+{
+"topic_1": {
+        "question_id": "1",
+        "topic": "Who do you support for the presidential election in 2016?",
+        "candidates": {
+            "A": {
+                "stance": "Donald Trump"
+            },
+            "B": {
+                "stance": "Hillary Clinton"
+            }
+        }
+    },
+"topic_2": {
+        "question_id": "2",
+        "topic": "Who do you support for the presidential election in 2020?",
+        "candidates": {
+            "A": {
+                "stance": "Joe Biden"
+            },
+            "B": {
+                "stance": "Donald Trump"
+            }
+        }
+    },
+"topic_3": {
+        "question_id": "3",
+        "topic": "Who do you support for the presidential election in 2024?",
+        "candidates": {
+            "A": {
+                "stance": "Donald Trump"
+            },
+            "B": {  
+                "stance": "Kamala Harris"
+            }
+        }
+    }
+}

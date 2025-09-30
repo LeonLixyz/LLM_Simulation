@@ -1,0 +1,5 @@
+{
+    "model_backend": "vllm",
+    "model_name": "mistralai/Mistral-Large-Instruct-2407",
+    "model_save_name": "Mistral-Large-Instruct-2407"
+  }

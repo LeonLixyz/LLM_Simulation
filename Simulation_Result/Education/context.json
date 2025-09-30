@@ -1,0 +1,89 @@
+{
+    "topic_1": {
+        "question_id": "1",
+        "topic": "Is the cost of getting a four-year college degree today worth it?",
+        "candidates": {
+            "A": {
+                "stance": "Not worth it"
+            },
+            "B": {
+                "stance": "Worth it, but only without taking out loans"
+            },
+            "C": {
+                "stance": "Worth it, even with loans"
+            }
+        }
+    },
+    "topic_2": {
+        "question_id": "2",
+        "topic": "Which type of college major is more valuable?",
+        "candidates": {
+            "A": {
+                "stance": "STEM (Science, Technology, Engineering, Math)"
+            },
+            "B": {
+                "stance": "Business and finance"
+            },
+            "C": {
+                "stance": "Liberal arts and humanities"
+            }
+        }
+    },
+    "topic_3": {
+        "question_id": "3",
+        "topic": "Do you think a college degree is necessary for a successful career?",
+        "candidates": {
+            "A": {
+                "stance": "No, experience and skills matter more"
+            },
+            "B": {
+                "stance": "It depends on the career field"
+            },
+            "C": {
+                "stance": "Yes, a degree is essential for success"
+            }
+        }
+    },
+    "topic_4": {
+        "question_id": "4",
+        "topic": "Should college education be free for all?",
+        "candidates": {
+            "A": {
+                "stance": "Yes, it should be publicly funded"
+            },
+            "B": {
+                "stance": "No, students should pay their own way"
+            },
+            "C": {
+                "stance": "Only for those in financial need"
+            }
+        }
+    },
+    "topic_5": {
+        "question_id": "5",
+        "topic": "How important is a college ranking when choosing a university?",
+        "candidates": {
+            "A": {
+                "stance": "Very important, ranking shows quality"
+            },
+            "B": {
+                "stance": "Somewhat important, but not the only factor"
+            },
+            "C": {
+                "stance": "Not important, fit and cost matter more"
+            }
+        }
+    },
+    "topic_6": {
+        "question_id": "6",
+        "topic": "Which type of college education do you think is more valuable?",
+        "candidates": {
+            "A": {
+                "stance": "Focused study in specific subjects like engineering, business, or medicine"
+            },
+            "B": {
+                "stance": "Liberal arts education covering humanities, arts, and sciences"
+            }
+        }
+    }
+}

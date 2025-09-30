@@ -1,0 +1,122 @@
+{
+    "topic_1": {
+        "question_id": "1",
+        "topic": "Which movie would you prefer to watch?",
+        "candidates": {
+            "A": {
+                "stance": "Transformers"
+            },
+            "B": {
+                "stance": "La La Land"
+            }
+        }
+    },
+    "topic_2": {
+        "question_id": "2",
+        "topic": "Which artist do you prefer to listen to?",
+        "candidates": {
+            "A": {
+                "stance": "Kanye West"
+            },
+            "B": {
+                "stance": "Taylor Swift"
+            }
+        }
+    },
+    "topic_3": {
+        "question_id": "3",
+        "topic": "Which TV show do you enjoy watching the most?",
+        "candidates": {
+            "A": {
+                "stance": "Game of Thrones"
+            },
+            "B": {
+                "stance": "The Office"
+            }
+        }
+    },
+    "topic_4": {
+        "question_id": "4",
+        "topic": "Which genre of music do you prefer?",
+        "candidates": {
+            "A": {
+                "stance": "Rock and metal"
+            },
+            "B": {
+                "stance": "Pop and R&B"
+            },
+            "C": {
+                "stance": "Hip hop and rap"
+            },
+            "D": {
+                "stance": "Classical and jazz"
+            },
+            "E": {
+                "stance": "Electronic and dance"
+            }
+        }
+    },
+    "topic_5": {
+        "question_id": "5",
+        "topic": "Which streaming platform do you use most frequently?",
+        "candidates": {
+            "A": {
+                "stance": "Netflix"
+            },
+            "B": {
+                "stance": "Disney+"
+            },
+            "C": {
+                "stance": "Amazon Prime Video"
+            },
+            "D": {
+                "stance": "Hulu"
+            },
+            "E": {
+                "stance": "Apple TV+"
+            },
+            "F": {
+                "stance": "HBO Max"
+            }
+        }
+    },
+    "topic_6": {
+        "question_id": "6", 
+        "topic": "What is your favorite movie genre?",
+        "candidates": {
+            "A": {
+                "stance": "Action and adventure"
+            },
+            "B": {
+                "stance": "Comedy"
+            },
+            "C": {
+                "stance": "Drama"
+            },
+            "D": {
+                "stance": "Science fiction and fantasy"
+            },
+            "E": {
+                "stance": "Horror and thriller"
+            },
+            "F": {
+                "stance": "Documentary"
+            },
+            "G": {
+                "stance": "Romance"
+            }
+        }
+    },
+    "topic_7": {
+        "question_id": "7",
+        "topic": "What type of recreational activities do you prefer?",
+        "candidates": {
+            "A": {
+                "stance": "Indoor activities like video games and virtual entertainment"
+            },
+            "B": {
+                "stance": "Outdoor activities like sports and nature exploration"
+            }
+        }
+    }
+}

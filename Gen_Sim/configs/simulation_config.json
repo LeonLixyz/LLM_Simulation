@@ -1,0 +1,13 @@
+{
+    "temperature": 0.95,
+    "top_p": 0.9,
+    "max_tokens": 512,
+    "persona_dir": "./LLM_Simulation/Persona/{persona_model_name}/{state}/{persona_type}",
+    "meta_persona_dir": "./LLM_Simulation/Persona/Meta_Persona/{state}/meta_persona",
+    "topic_dir": "./LLM_Simulation/Simulation_Result/{Topic}",
+    "simulation_prompt_dir": "./LLM_Simulation/Prompts/Opinion_Simulation",
+    "meta_stats_dir": "./LLM_Simulation/Simulation_Result/{Topic}",
+    "simulation_result_dir": "./LLM_Simulation/Simulation_Result/{Topic}/Sim_{simulation_model_name}/P_{persona_model_name}/{state}-FAST{fast_simulation}/{persona_type}",
+    "fast_simulation": true,
+    "gpu_memory_utilization": 0.95
+  }

@@ -1,0 +1,5 @@
+{
+    "model_backend": "vllm",
+    "model_name": "Qwen/Qwen2.5-72B-Instruct",
+    "model_save_name": "Qwen2.5-72B-Instruct"
+  }

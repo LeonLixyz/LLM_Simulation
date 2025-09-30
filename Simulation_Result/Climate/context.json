@@ -1,0 +1,74 @@
+{
+    "topic_1": {
+        "question_id": "1",
+        "topic": "What should the U.S. prioritize in energy production?",
+        "candidates": {
+            "A": {
+                "stance": "Expand oil, coal, and natural gas production for energy security"
+            },
+            "B": {
+                "stance": "Focus on developing alternative energy, such as wind and solar"
+            }
+        }
+    },
+    "topic_2": {
+        "question_id": "2",
+        "topic": "What is your position on the U.S. becoming carbon neutral by 2050?",
+        "candidates": {
+            "A": {
+                "stance": "Oppose efforts for the U.S. to become carbon neutral by 2050"
+            },
+            "B": {
+                "stance": "Support the U.S. aiming for carbon neutrality by 2050"
+            }
+        }
+    },
+    "topic_3": {
+        "question_id": "3",
+        "topic": "How should the U.S. approach climate change in its policies?",
+        "candidates": {
+            "A": {
+                "stance": "Reduce regulations on businesses to protect the economy"
+            },
+            "B": {
+                "stance": "Increase regulations to protect the environment"
+            }
+        }
+    },
+    "topic_4": {
+        "question_id": "4",
+        "topic": "What is your opinion on subsidies for electric vehicles?",
+        "candidates": {
+            "A": {
+                "stance": "End subsidies and let the market determine EV growth"
+            },
+            "B": {
+                "stance": "Increase subsidies to accelerate EV adoption"
+            }
+        }
+    },
+    "topic_5": {
+        "question_id": "5",
+        "topic": "How should the U.S. handle offshore drilling?",
+        "candidates": {
+            "A": {
+                "stance": "Allow offshore drilling to reduce energy imports"
+            },
+            "B": {
+                "stance": "Ban offshore drilling to protect marine ecosystems"
+            }
+        }
+    },
+    "topic_6": {
+        "question_id": "6",
+        "topic": "What role should the government play in reducing plastic waste?",
+        "candidates": {
+            "A": {
+                "stance": "Minimal intervention; let businesses lead"
+            },
+            "B": {
+                "stance": "Strict regulations on plastic use and waste"
+            }
+        }
+    }
+}

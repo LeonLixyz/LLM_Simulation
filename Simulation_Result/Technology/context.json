@@ -1,0 +1,62 @@
+{
+    "topic_1": {
+        "question_id": "1",
+        "topic": "What is your reaction to the growing role of AI in daily life?",
+        "candidates": {
+            "A": {
+                "stance": "Very excited about the potential benefits"
+            },
+            "B": {
+                "stance": "Excited but equally cautious about the risks"
+            },
+            "C": {
+                "stance": "Deeply worried about the impact of AI on society"
+            }
+        }
+    },
+    "topic_2": {
+        "question_id": "2",
+        "topic": "How do you feel about AI replacing human jobs?",
+        "candidates": {
+            "A": {
+                "stance": "Optimistic that it will lead to new opportunities"
+            },
+            "B": {
+                "stance": "Mixed feelings as there are both benefits and drawbacks"
+            },
+            "C": {
+                "stance": "Alarmed that it will harm job security and livelihoods"
+            }
+        }
+    },
+    "topic_3": {
+        "question_id": "3",
+        "topic": "What are your thoughts on the influence of AI over personal decision making?",
+        "candidates": {
+            "A": {
+                "stance": "Encouraging as it offers helpful guidance"
+            },
+            "B": {
+                "stance": "Wary as it is useful but raises ethical questions"
+            },
+            "C": {
+                "stance": "Disturbing as it erodes personal autonomy"
+            }
+        }
+    },
+    "topic_4": {
+        "question_id": "4",
+        "topic": "How concerned are you about companies collecting your personal data?",
+        "candidates": {
+            "A": {
+                "stance": "Not concerned as it is the cost of convenience"
+            },
+            "B": {
+                "stance": "Somewhat concerned but privacy is negotiable"
+            },
+            "C": {
+                "stance": "Very concerned as it is an invasion of privacy"
+            }
+        }
+    }
+}

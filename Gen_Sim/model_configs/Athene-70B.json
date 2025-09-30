@@ -1,0 +1,5 @@
+{
+    "model_backend": "vllm",
+    "model_name": "Nexusflow/Athene-70B",
+    "model_save_name": "Athene-70B"
+  }
